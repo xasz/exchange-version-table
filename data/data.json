@@ -1,1883 +1,2150 @@
 {
-    "GenerationDate": "2023-03-21T15:03:35.7736826+01:00",
-    "Source": "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates",
-    "Releases": [
-      {
-        "ProductName": "Exchange Server 2019 CU12 Mar23SU",
-        "Date": "2023-03-14T00:00:00",
-        "BuildNumberShort": "15.2.1118.26",
-        "BuildNumberLong": "15.02.1118.026",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 Feb23SU",
-        "Date": "2023-02-14T00:00:00",
-        "BuildNumberShort": "15.2.1118.25",
-        "BuildNumberLong": "15.02.1118.025",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 Jan23SU",
-        "Date": "2023-01-10T00:00:00",
-        "BuildNumberShort": "15.2.1118.21",
-        "BuildNumberLong": "15.02.1118.021",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 Nov22SU",
-        "Date": "2022-11-08T00:00:00",
-        "BuildNumberShort": "15.2.1118.20",
-        "BuildNumberLong": "15.02.1118.020",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 Oct22SU",
-        "Date": "2022-10-11T00:00:00",
-        "BuildNumberShort": "15.2.1118.15",
-        "BuildNumberLong": "15.02.1118.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 Aug22SU",
-        "Date": "2022-08-09T00:00:00",
-        "BuildNumberShort": "15.2.1118.12",
-        "BuildNumberLong": "15.02.1118.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 May22SU",
-        "Date": "2022-05-10T00:00:00",
-        "BuildNumberShort": "15.2.1118.9",
-        "BuildNumberLong": "15.02.1118.009",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU12 (2022H1)",
-        "Date": "2022-04-20T00:00:00",
-        "BuildNumberShort": "15.2.1118.7",
-        "BuildNumberLong": "15.02.1118.007",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Mar23SU",
-        "Date": "2023-03-14T00:00:00",
-        "BuildNumberShort": "15.2.986.42",
-        "BuildNumberLong": "15.02.0986.042",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Feb23SU",
-        "Date": "2023-02-14T00:00:00",
-        "BuildNumberShort": "15.2.986.41",
-        "BuildNumberLong": "15.02.0986.041",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Jan23SU",
-        "Date": "2023-01-10T00:00:00",
-        "BuildNumberShort": "15.2.986.37",
-        "BuildNumberLong": "15.02.0986.037",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Nov22SU",
-        "Date": "2022-11-08T00:00:00",
-        "BuildNumberShort": "15.2.986.36",
-        "BuildNumberLong": "15.02.0986.036",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Oct22SU",
-        "Date": "2022-10-11T00:00:00",
-        "BuildNumberShort": "15.2.986.30",
-        "BuildNumberLong": "15.02.0986.030",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Aug22SU",
-        "Date": "2022-08-09T00:00:00",
-        "BuildNumberShort": "15.2.986.29",
-        "BuildNumberLong": "15.02.0986.029",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 May22SU",
-        "Date": "2022-05-10T00:00:00",
-        "BuildNumberShort": "15.2.986.26",
-        "BuildNumberLong": "15.02.0986.026",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Mar22SU",
-        "Date": "2022-03-08T00:00:00",
-        "BuildNumberShort": "15.2.986.22",
-        "BuildNumberLong": "15.02.0986.022",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Jan22SU",
-        "Date": "2022-01-11T00:00:00",
-        "BuildNumberShort": "15.2.986.15",
-        "BuildNumberLong": "15.02.0986.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Nov21SU",
-        "Date": "2021-11-09T00:00:00",
-        "BuildNumberShort": "15.2.986.14",
-        "BuildNumberLong": "15.02.0986.014",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11 Oct21SU",
-        "Date": "2021-10-12T00:00:00",
-        "BuildNumberShort": "15.2.986.9",
-        "BuildNumberLong": "15.02.0986.009",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU11",
-        "Date": "2021-09-28T00:00:00",
-        "BuildNumberShort": "15.2.986.5",
-        "BuildNumberLong": "15.02.0986.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10 Mar22SU",
-        "Date": "2022-03-08T00:00:00",
-        "BuildNumberShort": "15.2.922.27",
-        "BuildNumberLong": "15.02.0922.027",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10 Jan22SU",
-        "Date": "2022-01-11T00:00:00",
-        "BuildNumberShort": "15.2.922.20",
-        "BuildNumberLong": "15.02.0922.020",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10 Nov21SU",
-        "Date": "2021-11-09T00:00:00",
-        "BuildNumberShort": "15.2.922.19",
-        "BuildNumberLong": "15.02.0922.019",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10 Oct21SU",
-        "Date": "2021-10-12T00:00:00",
-        "BuildNumberShort": "15.2.922.14",
-        "BuildNumberLong": "15.02.0922.014",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10 Jul21SU",
-        "Date": "2021-07-13T00:00:00",
-        "BuildNumberShort": "15.2.922.13",
-        "BuildNumberLong": "15.02.0922.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU10",
-        "Date": "2021-06-29T00:00:00",
-        "BuildNumberShort": "15.2.922.7",
-        "BuildNumberLong": "15.02.0922.007",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU9 Jul21SU",
-        "Date": "2021-07-13T00:00:00",
-        "BuildNumberShort": "15.2.858.15",
-        "BuildNumberLong": "15.02.0858.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU9 May21SU",
-        "Date": "2021-05-11T00:00:00",
-        "BuildNumberShort": "15.2.858.12",
-        "BuildNumberLong": "15.02.0858.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU9 Apr21SU",
-        "Date": "2021-04-13T00:00:00",
-        "BuildNumberShort": "15.2.858.10",
-        "BuildNumberLong": "15.02.0858.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU9",
-        "Date": "2021-03-16T00:00:00",
-        "BuildNumberShort": "15.2.858.5",
-        "BuildNumberLong": "15.02.0858.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU8 May21SU",
-        "Date": "2021-05-11T00:00:00",
-        "BuildNumberShort": "15.2.792.15",
-        "BuildNumberLong": "15.02.0792.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU8 Apr21SU",
-        "Date": "2021-04-13T00:00:00",
-        "BuildNumberShort": "15.2.792.13",
-        "BuildNumberLong": "15.02.0792.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU8 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.792.10",
-        "BuildNumberLong": "15.02.0792.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU8",
-        "Date": "2020-12-15T00:00:00",
-        "BuildNumberShort": "15.2.792.3",
-        "BuildNumberLong": "15.02.0792.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU7 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.721.13",
-        "BuildNumberLong": "15.02.0721.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU7",
-        "Date": "2020-09-15T00:00:00",
-        "BuildNumberShort": "15.2.721.2",
-        "BuildNumberLong": "15.02.0721.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU6 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.659.12",
-        "BuildNumberLong": "15.02.0659.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU6",
-        "Date": "2020-06-16T00:00:00",
-        "BuildNumberShort": "15.2.659.4",
-        "BuildNumberLong": "15.02.0659.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU5 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.595.8",
-        "BuildNumberLong": "15.02.0595.008",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU5",
-        "Date": "2020-03-17T00:00:00",
-        "BuildNumberShort": "15.2.595.3",
-        "BuildNumberLong": "15.02.0595.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU4 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.529.13",
-        "BuildNumberLong": "15.02.0529.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU4",
-        "Date": "2019-12-17T00:00:00",
-        "BuildNumberShort": "15.2.529.5",
-        "BuildNumberLong": "15.02.0529.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU3 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.464.15",
-        "BuildNumberLong": "15.02.0464.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU3",
-        "Date": "2019-09-17T00:00:00",
-        "BuildNumberShort": "15.2.464.5",
-        "BuildNumberLong": "15.02.0464.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU2 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.397.11",
-        "BuildNumberLong": "15.02.0397.011",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU2",
-        "Date": "2019-06-18T00:00:00",
-        "BuildNumberShort": "15.2.397.3",
-        "BuildNumberLong": "15.02.0397.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU1 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.330.11",
-        "BuildNumberLong": "15.02.0330.011",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 CU1",
-        "Date": "2019-02-12T00:00:00",
-        "BuildNumberShort": "15.2.330.5",
-        "BuildNumberLong": "15.02.0330.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 RTM Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.2.221.18",
-        "BuildNumberLong": "15.02.0221.018",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 RTM",
-        "Date": "2018-10-22T00:00:00",
-        "BuildNumberShort": "15.2.221.12",
-        "BuildNumberLong": "15.02.0221.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2019 Preview",
-        "Date": "2018-07-24T00:00:00",
-        "BuildNumberShort": "15.2.196.0",
-        "BuildNumberLong": "15.02.0196.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Mar23SU",
-        "Date": "2023-03-14T00:00:00",
-        "BuildNumberShort": "15.1.2507.23",
-        "BuildNumberLong": "15.01.2507.023",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Feb23SU",
-        "Date": "2023-02-14T00:00:00",
-        "BuildNumberShort": "15.1.2507.21",
-        "BuildNumberLong": "15.01.2507.021",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Jan23SU",
-        "Date": "2023-01-10T00:00:00",
-        "BuildNumberShort": "15.1.2507.17",
-        "BuildNumberLong": "15.01.2507.017",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Nov22SU",
-        "Date": "2022-11-08T00:00:00",
-        "BuildNumberShort": "15.1.2507.16",
-        "BuildNumberLong": "15.01.2507.016",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Oct22SU",
-        "Date": "2022-10-11T00:00:00",
-        "BuildNumberShort": "15.1.2507.13",
-        "BuildNumberLong": "15.01.2507.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 Aug22SU",
-        "Date": "2022-08-09T00:00:00",
-        "BuildNumberShort": "15.1.2507.12",
-        "BuildNumberLong": "15.01.2507.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 May22SU",
-        "Date": "2022-05-10T00:00:00",
-        "BuildNumberShort": "15.1.2507.9",
-        "BuildNumberLong": "15.01.2507.009",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU23 (2022H1)",
-        "Date": "2022-04-20T00:00:00",
-        "BuildNumberShort": "15.1.2507.6",
-        "BuildNumberLong": "15.01.2507.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Nov22SU",
-        "Date": "2022-11-08T00:00:00",
-        "BuildNumberShort": "15.1.2375.37",
-        "BuildNumberLong": "15.01.2375.037",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Oct22SU",
-        "Date": "2022-10-11T00:00:00",
-        "BuildNumberShort": "15.1.2375.32",
-        "BuildNumberLong": "15.01.2375.032",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Aug22SU",
-        "Date": "2022-08-09T00:00:00",
-        "BuildNumberShort": "15.1.2375.31",
-        "BuildNumberLong": "15.01.2375.031",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 May22SU",
-        "Date": "2022-05-10T00:00:00",
-        "BuildNumberShort": "15.1.2375.28",
-        "BuildNumberLong": "15.01.2375.028",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Mar22SU",
-        "Date": "2022-03-08T00:00:00",
-        "BuildNumberShort": "15.1.2375.24",
-        "BuildNumberLong": "15.01.2375.024",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Jan22SU",
-        "Date": "2022-01-11T00:00:00",
-        "BuildNumberShort": "15.1.2375.18",
-        "BuildNumberLong": "15.01.2375.018",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Nov21SU",
-        "Date": "2021-11-09T00:00:00",
-        "BuildNumberShort": "15.1.2375.17",
-        "BuildNumberLong": "15.01.2375.017",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22 Oct21SU",
-        "Date": "2021-10-12T00:00:00",
-        "BuildNumberShort": "15.1.2375.12",
-        "BuildNumberLong": "15.01.2375.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU22",
-        "Date": "2021-09-28T00:00:00",
-        "BuildNumberShort": "15.1.2375.7",
-        "BuildNumberLong": "15.01.2375.007",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21 Mar22SU",
-        "Date": "2022-03-08T00:00:00",
-        "BuildNumberShort": "15.1.2308.27",
-        "BuildNumberLong": "15.01.2308.027",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21 Jan22SU",
-        "Date": "2022-01-11T00:00:00",
-        "BuildNumberShort": "15.1.2308.21",
-        "BuildNumberLong": "15.01.2308.021",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21 Nov21SU",
-        "Date": "2021-11-09T00:00:00",
-        "BuildNumberShort": "15.1.2308.20",
-        "BuildNumberLong": "15.01.2308.020",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21 Oct21SU",
-        "Date": "2021-10-12T00:00:00",
-        "BuildNumberShort": "15.1.2308.15",
-        "BuildNumberLong": "15.01.2308.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21 Jul21SU",
-        "Date": "2021-07-13T00:00:00",
-        "BuildNumberShort": "15.1.2308.14",
-        "BuildNumberLong": "15.01.2308.014",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU21",
-        "Date": "2021-06-29T00:00:00",
-        "BuildNumberShort": "15.1.2308.8",
-        "BuildNumberLong": "15.01.2308.008",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU20 Jul21SU",
-        "Date": "2021-07-13T00:00:00",
-        "BuildNumberShort": "15.1.2242.12",
-        "BuildNumberLong": "15.01.2242.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU20 May21SU",
-        "Date": "2021-05-11T00:00:00",
-        "BuildNumberShort": "15.1.2242.10",
-        "BuildNumberLong": "15.01.2242.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU20 Apr21SU",
-        "Date": "2021-04-13T00:00:00",
-        "BuildNumberShort": "15.1.2242.8",
-        "BuildNumberLong": "15.01.2242.008",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU20",
-        "Date": "2021-03-16T00:00:00",
-        "BuildNumberShort": "15.1.2242.4",
-        "BuildNumberLong": "15.01.2242.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU19 May21SU",
-        "Date": "2021-05-11T00:00:00",
-        "BuildNumberShort": "15.1.2176.14",
-        "BuildNumberLong": "15.01.2176.014",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU19 Apr21SU",
-        "Date": "2021-04-13T00:00:00",
-        "BuildNumberShort": "15.1.2176.12",
-        "BuildNumberLong": "15.01.2176.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU19 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.2176.9",
-        "BuildNumberLong": "15.01.2176.009",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU19",
-        "Date": "2020-12-15T00:00:00",
-        "BuildNumberShort": "15.1.2176.2",
-        "BuildNumberLong": "15.01.2176.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU18 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.2106.13",
-        "BuildNumberLong": "15.01.2106.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU18",
-        "Date": "2020-09-15T00:00:00",
-        "BuildNumberShort": "15.1.2106.2",
-        "BuildNumberLong": "15.01.2106.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU17 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.2044.13",
-        "BuildNumberLong": "15.01.2044.013",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU17",
-        "Date": "2020-06-16T00:00:00",
-        "BuildNumberShort": "15.1.2044.4",
-        "BuildNumberLong": "15.01.2044.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU16 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1979.8",
-        "BuildNumberLong": "15.01.1979.008",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU16",
-        "Date": "2020-03-17T00:00:00",
-        "BuildNumberShort": "15.1.1979.3",
-        "BuildNumberLong": "15.01.1979.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU15 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1913.12",
-        "BuildNumberLong": "15.01.1913.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU15",
-        "Date": "2019-12-17T00:00:00",
-        "BuildNumberShort": "15.1.1913.5",
-        "BuildNumberLong": "15.01.1913.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU14 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1847.12",
-        "BuildNumberLong": "15.01.1847.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU14",
-        "Date": "2019-09-17T00:00:00",
-        "BuildNumberShort": "15.1.1847.3",
-        "BuildNumberLong": "15.01.1847.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU13 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1779.8",
-        "BuildNumberLong": "15.01.1779.008",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU13",
-        "Date": "2019-06-18T00:00:00",
-        "BuildNumberShort": "15.1.1779.2",
-        "BuildNumberLong": "15.01.1779.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU12 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1713.10",
-        "BuildNumberLong": "15.01.1713.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU12",
-        "Date": "2019-02-12T00:00:00",
-        "BuildNumberShort": "15.1.1713.5",
-        "BuildNumberLong": "15.01.1713.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU11 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1591.18",
-        "BuildNumberLong": "15.01.1591.018",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU11",
-        "Date": "2018-10-16T00:00:00",
-        "BuildNumberShort": "15.1.1591.10",
-        "BuildNumberLong": "15.01.1591.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU10 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1531.12",
-        "BuildNumberLong": "15.01.1531.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU10",
-        "Date": "2018-06-19T00:00:00",
-        "BuildNumberShort": "15.1.1531.3",
-        "BuildNumberLong": "15.01.1531.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU9 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1466.16",
-        "BuildNumberLong": "15.01.1466.016",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU9",
-        "Date": "2018-03-20T00:00:00",
-        "BuildNumberShort": "15.1.1466.3",
-        "BuildNumberLong": "15.01.1466.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU8 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.1.1415.10",
-        "BuildNumberLong": "15.01.1415.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU8",
-        "Date": "2017-12-19T00:00:00",
-        "BuildNumberShort": "15.1.1415.2",
-        "BuildNumberLong": "15.01.1415.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU7",
-        "Date": "2017-09-19T00:00:00",
-        "BuildNumberShort": "15.1.1261.35",
-        "BuildNumberLong": "15.01.1261.035",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU6",
-        "Date": "2017-06-27T00:00:00",
-        "BuildNumberShort": "15.1.1034.26",
-        "BuildNumberLong": "15.01.1034.026",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU5",
-        "Date": "2017-03-21T00:00:00",
-        "BuildNumberShort": "15.1.845.34",
-        "BuildNumberLong": "15.01.0845.034",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU4",
-        "Date": "2016-12-13T00:00:00",
-        "BuildNumberShort": "15.1.669.32",
-        "BuildNumberLong": "15.01.0669.032",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU3",
-        "Date": "2016-09-20T00:00:00",
-        "BuildNumberShort": "15.1.544.27",
-        "BuildNumberLong": "15.01.0544.027",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU2",
-        "Date": "2016-06-21T00:00:00",
-        "BuildNumberShort": "15.1.466.34",
-        "BuildNumberLong": "15.01.0466.034",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 CU1",
-        "Date": "2016-03-15T00:00:00",
-        "BuildNumberShort": "15.1.396.30",
-        "BuildNumberLong": "15.01.0396.030",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 RTM",
-        "Date": "2015-10-01T00:00:00",
-        "BuildNumberShort": "15.1.225.42",
-        "BuildNumberLong": "15.01.0225.042",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2016 Preview",
-        "Date": "2015-07-22T00:00:00",
-        "BuildNumberShort": "15.1.225.16",
-        "BuildNumberLong": "15.01.0225.016",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Mar23SU",
-        "Date": "2023-03-14T00:00:00",
-        "BuildNumberShort": "15.0.1497.48",
-        "BuildNumberLong": "15.00.1497.048",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Feb23SU",
-        "Date": "2023-02-14T00:00:00",
-        "BuildNumberShort": "15.0.1497.47",
-        "BuildNumberLong": "15.00.1497.047",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Jan23SU",
-        "Date": "2023-01-10T00:00:00",
-        "BuildNumberShort": "15.0.1497.45",
-        "BuildNumberLong": "15.00.1497.045",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Nov22SU",
-        "Date": "2022-11-08T00:00:00",
-        "BuildNumberShort": "15.0.1497.44",
-        "BuildNumberLong": "15.00.1497.044",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Oct22SU",
-        "Date": "2022-10-11T00:00:00",
-        "BuildNumberShort": "15.0.1497.42",
-        "BuildNumberLong": "15.00.1497.042",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Aug22SU",
-        "Date": "2022-08-09T00:00:00",
-        "BuildNumberShort": "15.0.1497.40",
-        "BuildNumberLong": "15.00.1497.040",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 May22SU",
-        "Date": "2022-05-10T00:00:00",
-        "BuildNumberShort": "15.0.1497.36",
-        "BuildNumberLong": "15.00.1497.036",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Mar22SU",
-        "Date": "2022-03-08T00:00:00",
-        "BuildNumberShort": "15.0.1497.33",
-        "BuildNumberLong": "15.00.1497.033",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Jan22SU",
-        "Date": "2022-01-11T00:00:00",
-        "BuildNumberShort": "15.0.1497.28",
-        "BuildNumberLong": "15.00.1497.028",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Nov21SU",
-        "Date": "2021-11-09T00:00:00",
-        "BuildNumberShort": "15.0.1497.26",
-        "BuildNumberLong": "15.00.1497.026",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Oct21SU",
-        "Date": "2021-10-12T00:00:00",
-        "BuildNumberShort": "15.0.1497.24",
-        "BuildNumberLong": "15.00.1497.024",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Jul21SU",
-        "Date": "2021-07-13T00:00:00",
-        "BuildNumberShort": "15.0.1497.23",
-        "BuildNumberLong": "15.00.1497.023",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 May21SU",
-        "Date": "2021-05-11T00:00:00",
-        "BuildNumberShort": "15.0.1497.18",
-        "BuildNumberLong": "15.00.1497.018",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Apr21SU",
-        "Date": "2021-04-13T00:00:00",
-        "BuildNumberShort": "15.0.1497.15",
-        "BuildNumberLong": "15.00.1497.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.0.1497.12",
-        "BuildNumberLong": "15.00.1497.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU23",
-        "Date": "2019-06-18T00:00:00",
-        "BuildNumberShort": "15.0.1497.2",
-        "BuildNumberLong": "15.00.1497.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU22 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.0.1473.6",
-        "BuildNumberLong": "15.00.1473.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU22",
-        "Date": "2019-02-12T00:00:00",
-        "BuildNumberShort": "15.0.1473.3",
-        "BuildNumberLong": "15.00.1473.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU21 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.0.1395.12",
-        "BuildNumberLong": "15.00.1395.012",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU21",
-        "Date": "2018-06-19T00:00:00",
-        "BuildNumberShort": "15.0.1395.4",
-        "BuildNumberLong": "15.00.1395.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU20",
-        "Date": "2018-03-20T00:00:00",
-        "BuildNumberShort": "15.0.1367.3",
-        "BuildNumberLong": "15.00.1367.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU19",
-        "Date": "2017-12-19T00:00:00",
-        "BuildNumberShort": "15.0.1365.1",
-        "BuildNumberLong": "15.00.1365.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU18",
-        "Date": "2017-09-19T00:00:00",
-        "BuildNumberShort": "15.0.1347.2",
-        "BuildNumberLong": "15.00.1347.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU17",
-        "Date": "2017-06-27T00:00:00",
-        "BuildNumberShort": "15.0.1320.4",
-        "BuildNumberLong": "15.00.1320.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU16",
-        "Date": "2017-03-21T00:00:00",
-        "BuildNumberShort": "15.0.1293.2",
-        "BuildNumberLong": "15.00.1293.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU15",
-        "Date": "2016-12-13T00:00:00",
-        "BuildNumberShort": "15.0.1263.5",
-        "BuildNumberLong": "15.00.1263.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU14",
-        "Date": "2016-09-20T00:00:00",
-        "BuildNumberShort": "15.0.1236.3",
-        "BuildNumberLong": "15.00.1236.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU13",
-        "Date": "2016-06-21T00:00:00",
-        "BuildNumberShort": "15.0.1210.3",
-        "BuildNumberLong": "15.00.1210.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU12",
-        "Date": "2016-03-15T00:00:00",
-        "BuildNumberShort": "15.0.1178.4",
-        "BuildNumberLong": "15.00.1178.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU11",
-        "Date": "2015-12-15T00:00:00",
-        "BuildNumberShort": "15.0.1156.6",
-        "BuildNumberLong": "15.00.1156.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU10",
-        "Date": "2015-09-15T00:00:00",
-        "BuildNumberShort": "15.0.1130.7",
-        "BuildNumberLong": "15.00.1130.007",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU9",
-        "Date": "2015-06-17T00:00:00",
-        "BuildNumberShort": "15.0.1104.5",
-        "BuildNumberLong": "15.00.1104.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU8",
-        "Date": "2015-03-17T00:00:00",
-        "BuildNumberShort": "15.0.1076.9",
-        "BuildNumberLong": "15.00.1076.009",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU7",
-        "Date": "2014-12-09T00:00:00",
-        "BuildNumberShort": "15.0.1044.25",
-        "BuildNumberLong": "15.00.1044.025",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU6",
-        "Date": "2014-08-26T00:00:00",
-        "BuildNumberShort": "15.0.995.29",
-        "BuildNumberLong": "15.00.0995.029",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU5",
-        "Date": "2014-05-27T00:00:00",
-        "BuildNumberShort": "15.0.913.22",
-        "BuildNumberLong": "15.00.0913.022",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 SP1 Mar21SU",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "15.0.847.64",
-        "BuildNumberLong": "15.00.0847.064",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 SP1",
-        "Date": "2014-02-25T00:00:00",
-        "BuildNumberShort": "15.0.847.32",
-        "BuildNumberLong": "15.00.0847.032",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU3",
-        "Date": "2013-11-25T00:00:00",
-        "BuildNumberShort": "15.0.775.38",
-        "BuildNumberLong": "15.00.0775.038",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU2",
-        "Date": "2013-07-09T00:00:00",
-        "BuildNumberShort": "15.0.712.24",
-        "BuildNumberLong": "15.00.0712.024",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 CU1",
-        "Date": "2013-04-02T00:00:00",
-        "BuildNumberShort": "15.0.620.29",
-        "BuildNumberLong": "15.00.0620.029",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2013 RTM",
-        "Date": "2012-12-03T00:00:00",
-        "BuildNumberShort": "15.0.516.32",
-        "BuildNumberLong": "15.00.0516.032",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 32 for Exchange Server 2010 SP3",
-        "Date": "2021-03-02T00:00:00",
-        "BuildNumberShort": "14.3.513.0",
-        "BuildNumberLong": "14.03.0513.000",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Update Rollup 31 for Exchange Server 2010 SP3",
-        "Date": "2020-12-01T00:00:00",
-        "BuildNumberShort": "14.3.509.0",
-        "BuildNumberLong": "14.03.0509.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 30 for Exchange Server 2010 SP3",
-        "Date": "2020-02-11T00:00:00",
-        "BuildNumberShort": "14.3.496.0",
-        "BuildNumberLong": "14.03.0496.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 29 for Exchange Server 2010 SP3",
-        "Date": "2019-07-09T00:00:00",
-        "BuildNumberShort": "14.3.468.0",
-        "BuildNumberLong": "14.03.0468.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 28 for Exchange Server 2010 SP3",
-        "Date": "2019-06-07T00:00:00",
-        "BuildNumberShort": "14.3.461.1",
-        "BuildNumberLong": "14.03.0461.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 27 for Exchange Server 2010 SP3",
-        "Date": "2019-04-09T00:00:00",
-        "BuildNumberShort": "14.3.452.0",
-        "BuildNumberLong": "14.03.0452.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 26 for Exchange Server 2010 SP3",
-        "Date": "2019-02-12T00:00:00",
-        "BuildNumberShort": "14.3.442.0",
-        "BuildNumberLong": "14.03.0442.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 25 for Exchange Server 2010 SP3",
-        "Date": "2019-01-08T00:00:00",
-        "BuildNumberShort": "14.3.435.0",
-        "BuildNumberLong": "14.03.0435.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 24 for Exchange Server 2010 SP3",
-        "Date": "2018-09-05T00:00:00",
-        "BuildNumberShort": "14.3.419.0",
-        "BuildNumberLong": "14.03.0419.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 23 for Exchange Server 2010 SP3",
-        "Date": "2018-08-13T00:00:00",
-        "BuildNumberShort": "14.3.417.1",
-        "BuildNumberLong": "14.03.0417.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 22 for Exchange Server 2010 SP3",
-        "Date": "2018-06-19T00:00:00",
-        "BuildNumberShort": "14.3.411.0",
-        "BuildNumberLong": "14.03.0411.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 21 for Exchange Server 2010 SP3",
-        "Date": "2018-05-07T00:00:00",
-        "BuildNumberShort": "14.3.399.2",
-        "BuildNumberLong": "14.03.0399.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 20 for Exchange Server 2010 SP3",
-        "Date": "2018-03-05T00:00:00",
-        "BuildNumberShort": "14.3.389.1",
-        "BuildNumberLong": "14.03.0389.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 19 for Exchange Server 2010 SP3",
-        "Date": "2017-12-19T00:00:00",
-        "BuildNumberShort": "14.3.382.0",
-        "BuildNumberLong": "14.03.0382.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 18 for Exchange Server 2010 SP3",
-        "Date": "2017-07-11T00:00:00",
-        "BuildNumberShort": "14.3.361.1",
-        "BuildNumberLong": "14.03.0361.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 17 for Exchange Server 2010 SP3",
-        "Date": "2017-03-21T00:00:00",
-        "BuildNumberShort": "14.3.352.0",
-        "BuildNumberLong": "14.03.0352.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 16 for Exchange Server 2010 SP3",
-        "Date": "2016-12-13T00:00:00",
-        "BuildNumberShort": "14.3.336.0",
-        "BuildNumberLong": "14.03.0336.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 15 for Exchange Server 2010 SP3",
-        "Date": "2016-09-20T00:00:00",
-        "BuildNumberShort": "14.3.319.2",
-        "BuildNumberLong": "14.03.0319.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 14 for Exchange Server 2010 SP3",
-        "Date": "2016-06-21T00:00:00",
-        "BuildNumberShort": "14.3.301.0",
-        "BuildNumberLong": "14.03.0301.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 13 for Exchange Server 2010 SP3",
-        "Date": "2016-03-15T00:00:00",
-        "BuildNumberShort": "14.3.294.0",
-        "BuildNumberLong": "14.03.0294.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 12 for Exchange Server 2010 SP3",
-        "Date": "2015-12-15T00:00:00",
-        "BuildNumberShort": "14.3.279.2",
-        "BuildNumberLong": "14.03.0279.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 11 for Exchange Server 2010 SP3",
-        "Date": "2015-09-15T00:00:00",
-        "BuildNumberShort": "14.3.266.2",
-        "BuildNumberLong": "14.03.0266.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 10 for Exchange Server 2010 SP3",
-        "Date": "2015-06-17T00:00:00",
-        "BuildNumberShort": "14.3.248.2",
-        "BuildNumberLong": "14.03.0248.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 9 for Exchange Server 2010 SP3",
-        "Date": "2015-03-17T00:00:00",
-        "BuildNumberShort": "14.3.235.1",
-        "BuildNumberLong": "14.03.0235.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 v2 for Exchange Server 2010 SP3",
-        "Date": "2014-12-12T00:00:00",
-        "BuildNumberShort": "14.3.224.2",
-        "BuildNumberLong": "14.03.0224.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 v1 for Exchange Server 2010 SP3 (recalled)",
-        "Date": "2014-12-09T00:00:00",
-        "BuildNumberShort": "14.3.224.1",
-        "BuildNumberLong": "14.03.0224.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2010 SP3",
-        "Date": "2014-08-26T00:00:00",
-        "BuildNumberShort": "14.3.210.2",
-        "BuildNumberLong": "14.03.0210.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 for Exchange Server 2010 SP3",
-        "Date": "2014-05-27T00:00:00",
-        "BuildNumberShort": "14.3.195.1",
-        "BuildNumberLong": "14.03.0195.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2010 SP3",
-        "Date": "2014-02-24T00:00:00",
-        "BuildNumberShort": "14.3.181.6",
-        "BuildNumberLong": "14.03.0181.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2010 SP3",
-        "Date": "2013-12-09T00:00:00",
-        "BuildNumberShort": "14.3.174.1",
-        "BuildNumberLong": "14.03.0174.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2010 SP3",
-        "Date": "2013-11-25T00:00:00",
-        "BuildNumberShort": "14.3.169.1",
-        "BuildNumberLong": "14.03.0169.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2010 SP3",
-        "Date": "2013-08-08T00:00:00",
-        "BuildNumberShort": "14.3.158.1",
-        "BuildNumberLong": "14.03.0158.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2010 SP3",
-        "Date": "2013-05-29T00:00:00",
-        "BuildNumberShort": "14.3.146.0",
-        "BuildNumberLong": "14.03.0146.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2010 SP3",
-        "Date": "2013-02-12T00:00:00",
-        "BuildNumberShort": "14.3.123.4",
-        "BuildNumberLong": "14.03.0123.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 for Exchange Server 2010 SP2",
-        "Date": "2013-12-09T00:00:00",
-        "BuildNumberShort": "14.2.390.3",
-        "BuildNumberLong": "14.02.0390.003",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2010 SP2",
-        "Date": "2013-08-03T00:00:00",
-        "BuildNumberShort": "14.2.375.0",
-        "BuildNumberLong": "14.02.0375.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 Exchange Server 2010 SP2",
-        "Date": "2013-02-12T00:00:00",
-        "BuildNumberShort": "14.2.342.3",
-        "BuildNumberLong": "14.02.0342.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 v2 for Exchange Server 2010 SP2",
-        "Date": "2012-12-10T00:00:00",
-        "BuildNumberShort": "14.2.328.10",
-        "BuildNumberLong": "14.02.0328.010",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2010 SP2",
-        "Date": "2012-11-13T00:00:00",
-        "BuildNumberShort": "14.3.328.5",
-        "BuildNumberLong": "14.03.0328.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 v2 for Exchange Server 2010 SP2",
-        "Date": "2012-10-09T00:00:00",
-        "BuildNumberShort": "14.2.318.4",
-        "BuildNumberLong": "14.02.0318.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2010 SP2",
-        "Date": "2012-08-13T00:00:00",
-        "BuildNumberShort": "14.2.318.2",
-        "BuildNumberLong": "14.02.0318.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2010 SP2",
-        "Date": "2012-05-29T00:00:00",
-        "BuildNumberShort": "14.2.309.2",
-        "BuildNumberLong": "14.02.0309.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2010 SP2",
-        "Date": "2012-04-16T00:00:00",
-        "BuildNumberShort": "14.2.298.4",
-        "BuildNumberLong": "14.02.0298.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2010 SP2",
-        "Date": "2012-02-13T00:00:00",
-        "BuildNumberShort": "14.2.283.3",
-        "BuildNumberLong": "14.02.0283.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2010 SP2",
-        "Date": "2011-12-04T00:00:00",
-        "BuildNumberShort": "14.2.247.5",
-        "BuildNumberLong": "14.02.0247.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 for Exchange Server 2010 SP1",
-        "Date": "2012-12-10T00:00:00",
-        "BuildNumberShort": "14.1.438.0",
-        "BuildNumberLong": "14.01.0438.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 v3 for Exchange Server 2010 SP1",
-        "Date": "2012-11-13T00:00:00",
-        "BuildNumberShort": "14.1.421.3",
-        "BuildNumberLong": "14.01.0421.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 v2 for Exchange Server 2010 SP1",
-        "Date": "2012-10-10T00:00:00",
-        "BuildNumberShort": "14.1.421.2",
-        "BuildNumberLong": "14.01.0421.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2010 SP1",
-        "Date": "2012-08-08T00:00:00",
-        "BuildNumberShort": "14.1.421.0",
-        "BuildNumberLong": "14.01.0421.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 for Exchange Server 2010 SP1",
-        "Date": "2011-10-27T00:00:00",
-        "BuildNumberShort": "14.1.355.2",
-        "BuildNumberLong": "14.01.0355.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2010 SP1",
-        "Date": "2011-08-23T00:00:00",
-        "BuildNumberShort": "14.1.339.1",
-        "BuildNumberLong": "14.01.0339.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2010 SP1",
-        "Date": "2011-07-27T00:00:00",
-        "BuildNumberShort": "14.1.323.6",
-        "BuildNumberLong": "14.01.0323.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2010 SP1",
-        "Date": "2011-04-06T00:00:00",
-        "BuildNumberShort": "14.1.289.7",
-        "BuildNumberLong": "14.01.0289.007",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2010 SP1",
-        "Date": "2010-12-09T00:00:00",
-        "BuildNumberShort": "14.1.270.1",
-        "BuildNumberLong": "14.01.0270.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2010 SP1",
-        "Date": "2010-10-04T00:00:00",
-        "BuildNumberShort": "14.1.255.2",
-        "BuildNumberLong": "14.01.0255.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2010 SP1",
-        "Date": "2010-08-23T00:00:00",
-        "BuildNumberShort": "14.1.218.15",
-        "BuildNumberLong": "14.01.0218.015",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2010",
-        "Date": "2010-12-13T00:00:00",
-        "BuildNumberShort": "14.0.726.0",
-        "BuildNumberLong": "14.00.0726.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2010",
-        "Date": "2010-06-10T00:00:00",
-        "BuildNumberShort": "14.0.702.1",
-        "BuildNumberLong": "14.00.0702.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2010",
-        "Date": "2010-04-13T00:00:00",
-        "BuildNumberShort": "14.0.694.0",
-        "BuildNumberLong": "14.00.0694.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2010",
-        "Date": "2010-03-04T00:00:00",
-        "BuildNumberShort": "14.0.689.0",
-        "BuildNumberLong": "14.00.0689.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2010",
-        "Date": "2009-12-09T00:00:00",
-        "BuildNumberShort": "14.0.682.1",
-        "BuildNumberLong": "14.00.0682.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2010 RTM",
-        "Date": "2009-11-09T00:00:00",
-        "BuildNumberShort": "14.0.639.21",
-        "BuildNumberLong": "14.00.0639.021",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 23 for Exchange Server 2007 SP3",
-        "Date": "2017-03-21T00:00:00",
-        "BuildNumberShort": "8.3.517.0",
-        "BuildNumberLong": "8.03.0517.000",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Update Rollup 22 for Exchange Server 2007 SP3",
-        "Date": "2016-12-13T00:00:00",
-        "BuildNumberShort": "8.3.502.0",
-        "BuildNumberLong": "8.03.0502.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 21 for Exchange Server 2007 SP3",
-        "Date": "2016-09-20T00:00:00",
-        "BuildNumberShort": "8.3.485.1",
-        "BuildNumberLong": "8.03.0485.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 20 for Exchange Server 2007 SP3",
-        "Date": "2016-06-21T00:00:00",
-        "BuildNumberShort": "8.3.468.0",
-        "BuildNumberLong": "8.03.0468.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 19 forExchange Server 2007 SP3",
-        "Date": "2016-03-15T00:00:00",
-        "BuildNumberShort": "8.3.459.0",
-        "BuildNumberLong": "8.03.0459.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 18 forExchange Server 2007 SP3",
-        "Date": "2015-12-01T00:00:00",
-        "BuildNumberShort": "8.3.445.0",
-        "BuildNumberLong": "8.03.0445.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 17 forExchange Server 2007 SP3",
-        "Date": "2015-06-17T00:00:00",
-        "BuildNumberShort": "8.3.417.1",
-        "BuildNumberLong": "8.03.0417.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 16 for Exchange Server 2007 SP3",
-        "Date": "2015-03-17T00:00:00",
-        "BuildNumberShort": "8.3.406.0",
-        "BuildNumberLong": "8.03.0406.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 15 for Exchange Server 2007 SP3",
-        "Date": "2014-12-09T00:00:00",
-        "BuildNumberShort": "8.3.389.2",
-        "BuildNumberLong": "8.03.0389.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 14 for Exchange Server 2007 SP3",
-        "Date": "2014-08-26T00:00:00",
-        "BuildNumberShort": "8.3.379.2",
-        "BuildNumberLong": "8.03.0379.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 13 for Exchange Server 2007 SP3",
-        "Date": "2014-02-24T00:00:00",
-        "BuildNumberShort": "8.3.348.2",
-        "BuildNumberLong": "8.03.0348.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 12 for Exchange Server 2007 SP3",
-        "Date": "2013-12-09T00:00:00",
-        "BuildNumberShort": "8.3.342.4",
-        "BuildNumberLong": "8.03.0342.004",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 11 for Exchange Server 2007 SP3",
-        "Date": "2013-08-13T00:00:00",
-        "BuildNumberShort": "8.3.327.1",
-        "BuildNumberLong": "8.03.0327.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 10 for Exchange Server 2007 SP3",
-        "Date": "2013-02-11T00:00:00",
-        "BuildNumberShort": "8.3.298.3",
-        "BuildNumberLong": "8.03.0298.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 9 for Exchange Server 2007 SP3",
-        "Date": "2012-12-10T00:00:00",
-        "BuildNumberShort": "8.3.297.2",
-        "BuildNumberLong": "8.03.0297.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8-v3 for Exchange Server 2007 SP3",
-        "Date": "2012-11-13T00:00:00",
-        "BuildNumberShort": "8.3.279.6",
-        "BuildNumberLong": "8.03.0279.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8-v2 for Exchange Server 2007 SP3",
-        "Date": "2012-10-09T00:00:00",
-        "BuildNumberShort": "8.3.279.5",
-        "BuildNumberLong": "8.03.0279.005",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 for Exchange Server 2007 SP3",
-        "Date": "2012-08-13T00:00:00",
-        "BuildNumberShort": "8.3.279.3",
-        "BuildNumberLong": "8.03.0279.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2007 SP3",
-        "Date": "2012-04-16T00:00:00",
-        "BuildNumberShort": "8.3.264.0",
-        "BuildNumberLong": "8.03.0264.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 for Exchange Server 2007 SP3",
-        "Date": "2012-01-26T00:00:00",
-        "BuildNumberShort": "8.3.245.2",
-        "BuildNumberLong": "8.03.0245.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2007 SP3",
-        "Date": "2011-09-21T00:00:00",
-        "BuildNumberShort": "8.3.213.1",
-        "BuildNumberLong": "8.03.0213.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2007 SP3",
-        "Date": "2011-05-28T00:00:00",
-        "BuildNumberShort": "8.3.192.1",
-        "BuildNumberLong": "8.03.0192.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3-v2 for Exchange Server 2007 SP3",
-        "Date": "2011-03-30T00:00:00",
-        "BuildNumberShort": "8.3.159.2",
-        "BuildNumberLong": "8.03.0159.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2007 SP3",
-        "Date": "2010-12-10T00:00:00",
-        "BuildNumberShort": "8.3.137.3",
-        "BuildNumberLong": "8.03.0137.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2007 SP3",
-        "Date": "2010-09-09T00:00:00",
-        "BuildNumberShort": "8.3.106.2",
-        "BuildNumberLong": "8.03.0106.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2007 SP3",
-        "Date": "2010-06-07T00:00:00",
-        "BuildNumberShort": "8.3.83.6",
-        "BuildNumberLong": "8.03.0083.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2007 SP2",
-        "Date": "2010-12-07T00:00:00",
-        "BuildNumberShort": "8.2.305.3",
-        "BuildNumberLong": "8.02.0305.003",
-        "IsCurrent": true
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2007 SP2",
-        "Date": "2010-04-09T00:00:00",
-        "BuildNumberShort": "8.2.254.0",
-        "BuildNumberLong": "8.02.0254.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2007 SP2",
-        "Date": "2010-03-17T00:00:00",
-        "BuildNumberShort": "8.2.247.2",
-        "BuildNumberLong": "8.02.0247.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2007 SP2",
-        "Date": "2010-01-22T00:00:00",
-        "BuildNumberShort": "8.2.234.1",
-        "BuildNumberLong": "8.02.0234.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2007 SP2",
-        "Date": "2009-11-19T00:00:00",
-        "BuildNumberShort": "8.2.217.3",
-        "BuildNumberLong": "8.02.0217.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2007 SP2",
-        "Date": "2009-08-24T00:00:00",
-        "BuildNumberShort": "8.2.176.2",
-        "BuildNumberLong": "8.02.0176.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 10 for Exchange Server 2007 SP1",
-        "Date": "2010-04-13T00:00:00",
-        "BuildNumberShort": "8.1.436.0",
-        "BuildNumberLong": "8.01.0436.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 9 for Exchange Server 2007 SP1",
-        "Date": "2009-07-16T00:00:00",
-        "BuildNumberShort": "8.1.393.1",
-        "BuildNumberLong": "8.01.0393.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 8 for Exchange Server 2007 SP1",
-        "Date": "2009-05-19T00:00:00",
-        "BuildNumberShort": "8.1.375.2",
-        "BuildNumberLong": "8.01.0375.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2007 SP1",
-        "Date": "2009-03-18T00:00:00",
-        "BuildNumberShort": "8.1.359.2",
-        "BuildNumberLong": "8.01.0359.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 for Exchange Server 2007 SP1",
-        "Date": "2009-02-10T00:00:00",
-        "BuildNumberShort": "8.1.340.1",
-        "BuildNumberLong": "8.01.0340.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2007 SP1",
-        "Date": "2008-11-20T00:00:00",
-        "BuildNumberShort": "8.1.336.1",
-        "BuildNumberLong": "8.01.0336.01",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2007 SP1",
-        "Date": "2008-10-07T00:00:00",
-        "BuildNumberShort": "8.1.311.3",
-        "BuildNumberLong": "8.01.0311.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2007 SP1",
-        "Date": "2008-07-08T00:00:00",
-        "BuildNumberShort": "8.1.291.2",
-        "BuildNumberLong": "8.01.0291.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2007 SP1",
-        "Date": "2008-05-09T00:00:00",
-        "BuildNumberShort": "8.1.278.2",
-        "BuildNumberLong": "8.01.0278.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2007 SP1",
-        "Date": "2008-02-28T00:00:00",
-        "BuildNumberShort": "8.1.263.1",
-        "BuildNumberLong": "8.01.0263.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2007 SP1",
-        "Date": "2007-11-29T00:00:00",
-        "BuildNumberShort": "8.1.240.6",
-        "BuildNumberLong": "8.01.0240.006",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 7 for Exchange Server 2007",
-        "Date": "2008-07-08T00:00:00",
-        "BuildNumberShort": "8.0.813.0",
-        "BuildNumberLong": "8.00.0813.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 6 for Exchange Server 2007",
-        "Date": "2008-02-21T00:00:00",
-        "BuildNumberShort": "8.0.783.2",
-        "BuildNumberLong": "8.00.0783.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 5 for Exchange Server 2007",
-        "Date": "2007-10-25T00:00:00",
-        "BuildNumberShort": "8.0.754.0",
-        "BuildNumberLong": "8.00.0754.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 4 for Exchange Server 2007",
-        "Date": "2007-08-23T00:00:00",
-        "BuildNumberShort": "8.0.744.0",
-        "BuildNumberLong": "8.00.0744.000",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 3 for Exchange Server 2007",
-        "Date": "2007-06-28T00:00:00",
-        "BuildNumberShort": "8.0.730.1",
-        "BuildNumberLong": "8.00.0730.001",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 2 for Exchange Server 2007",
-        "Date": "2007-05-08T00:00:00",
-        "BuildNumberShort": "8.0.711.2",
-        "BuildNumberLong": "8.00.0711.002",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Update Rollup 1 for Exchange Server 2007",
-        "Date": "2007-04-17T00:00:00",
-        "BuildNumberShort": "8.0.708.3",
-        "BuildNumberLong": "8.00.0708.003",
-        "IsCurrent": false
-      },
-      {
-        "ProductName": "Exchange Server 2007 RTM",
-        "Date": "2007-03-08T00:00:00",
-        "BuildNumberShort": "8.0.685.25",
-        "BuildNumberLong": "8.00.0685.025",
-        "IsCurrent": false
-      }
-    ]
-  }
-  
+  "GenerationDate": "2023-03-21T15:53:54.5295015+01:00",
+  "Source": "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates",
+  "Releases": [
+    {
+      "ProductName": "Exchange Server 2019 CU12 Mar23SU",
+      "Date": "2023-03-14T00:00:00",
+      "BuildNumberShort": "15.2.1118.26",
+      "BuildNumberLong": "15.02.1118.026",
+      "CU": "12",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Feb23SU",
+      "Date": "2023-02-14T00:00:00",
+      "BuildNumberShort": "15.2.1118.25",
+      "BuildNumberLong": "15.02.1118.025",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Jan23SU",
+      "Date": "2023-01-10T00:00:00",
+      "BuildNumberShort": "15.2.1118.21",
+      "BuildNumberLong": "15.02.1118.021",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Nov22SU",
+      "Date": "2022-11-08T00:00:00",
+      "BuildNumberShort": "15.2.1118.20",
+      "BuildNumberLong": "15.02.1118.020",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Oct22SU",
+      "Date": "2022-10-11T00:00:00",
+      "BuildNumberShort": "15.2.1118.15",
+      "BuildNumberLong": "15.02.1118.015",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Aug22SU",
+      "Date": "2022-08-09T00:00:00",
+      "BuildNumberShort": "15.2.1118.12",
+      "BuildNumberLong": "15.02.1118.012",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 May22SU",
+      "Date": "2022-05-10T00:00:00",
+      "BuildNumberShort": "15.2.1118.9",
+      "BuildNumberLong": "15.02.1118.009",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 (2022H1)",
+      "Date": "2022-04-20T00:00:00",
+      "BuildNumberShort": "15.2.1118.7",
+      "BuildNumberLong": "15.02.1118.007",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Mar23SU",
+      "Date": "2023-03-14T00:00:00",
+      "BuildNumberShort": "15.2.986.42",
+      "BuildNumberLong": "15.02.0986.042",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Feb23SU",
+      "Date": "2023-02-14T00:00:00",
+      "BuildNumberShort": "15.2.986.41",
+      "BuildNumberLong": "15.02.0986.041",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Jan23SU",
+      "Date": "2023-01-10T00:00:00",
+      "BuildNumberShort": "15.2.986.37",
+      "BuildNumberLong": "15.02.0986.037",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Nov22SU",
+      "Date": "2022-11-08T00:00:00",
+      "BuildNumberShort": "15.2.986.36",
+      "BuildNumberLong": "15.02.0986.036",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Oct22SU",
+      "Date": "2022-10-11T00:00:00",
+      "BuildNumberShort": "15.2.986.30",
+      "BuildNumberLong": "15.02.0986.030",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Aug22SU",
+      "Date": "2022-08-09T00:00:00",
+      "BuildNumberShort": "15.2.986.29",
+      "BuildNumberLong": "15.02.0986.029",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 May22SU",
+      "Date": "2022-05-10T00:00:00",
+      "BuildNumberShort": "15.2.986.26",
+      "BuildNumberLong": "15.02.0986.026",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Mar22SU",
+      "Date": "2022-03-08T00:00:00",
+      "BuildNumberShort": "15.2.986.22",
+      "BuildNumberLong": "15.02.0986.022",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Jan22SU",
+      "Date": "2022-01-11T00:00:00",
+      "BuildNumberShort": "15.2.986.15",
+      "BuildNumberLong": "15.02.0986.015",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Nov21SU",
+      "Date": "2021-11-09T00:00:00",
+      "BuildNumberShort": "15.2.986.14",
+      "BuildNumberLong": "15.02.0986.014",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11 Oct21SU",
+      "Date": "2021-10-12T00:00:00",
+      "BuildNumberShort": "15.2.986.9",
+      "BuildNumberLong": "15.02.0986.009",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU11",
+      "Date": "2021-09-28T00:00:00",
+      "BuildNumberShort": "15.2.986.5",
+      "BuildNumberLong": "15.02.0986.005",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10 Mar22SU",
+      "Date": "2022-03-08T00:00:00",
+      "BuildNumberShort": "15.2.922.27",
+      "BuildNumberLong": "15.02.0922.027",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10 Jan22SU",
+      "Date": "2022-01-11T00:00:00",
+      "BuildNumberShort": "15.2.922.20",
+      "BuildNumberLong": "15.02.0922.020",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10 Nov21SU",
+      "Date": "2021-11-09T00:00:00",
+      "BuildNumberShort": "15.2.922.19",
+      "BuildNumberLong": "15.02.0922.019",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10 Oct21SU",
+      "Date": "2021-10-12T00:00:00",
+      "BuildNumberShort": "15.2.922.14",
+      "BuildNumberLong": "15.02.0922.014",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10 Jul21SU",
+      "Date": "2021-07-13T00:00:00",
+      "BuildNumberShort": "15.2.922.13",
+      "BuildNumberLong": "15.02.0922.013",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU10",
+      "Date": "2021-06-29T00:00:00",
+      "BuildNumberShort": "15.2.922.7",
+      "BuildNumberLong": "15.02.0922.007",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU9 Jul21SU",
+      "Date": "2021-07-13T00:00:00",
+      "BuildNumberShort": "15.2.858.15",
+      "BuildNumberLong": "15.02.0858.015",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU9 May21SU",
+      "Date": "2021-05-11T00:00:00",
+      "BuildNumberShort": "15.2.858.12",
+      "BuildNumberLong": "15.02.0858.012",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU9 Apr21SU",
+      "Date": "2021-04-13T00:00:00",
+      "BuildNumberShort": "15.2.858.10",
+      "BuildNumberLong": "15.02.0858.010",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU9",
+      "Date": "2021-03-16T00:00:00",
+      "BuildNumberShort": "15.2.858.5",
+      "BuildNumberLong": "15.02.0858.005",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU8 May21SU",
+      "Date": "2021-05-11T00:00:00",
+      "BuildNumberShort": "15.2.792.15",
+      "BuildNumberLong": "15.02.0792.015",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU8 Apr21SU",
+      "Date": "2021-04-13T00:00:00",
+      "BuildNumberShort": "15.2.792.13",
+      "BuildNumberLong": "15.02.0792.013",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU8 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.792.10",
+      "BuildNumberLong": "15.02.0792.010",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU8",
+      "Date": "2020-12-15T00:00:00",
+      "BuildNumberShort": "15.2.792.3",
+      "BuildNumberLong": "15.02.0792.003",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU7 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.721.13",
+      "BuildNumberLong": "15.02.0721.013",
+      "CU": "7",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU7",
+      "Date": "2020-09-15T00:00:00",
+      "BuildNumberShort": "15.2.721.2",
+      "BuildNumberLong": "15.02.0721.002",
+      "CU": "7",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU6 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.659.12",
+      "BuildNumberLong": "15.02.0659.012",
+      "CU": "6",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU6",
+      "Date": "2020-06-16T00:00:00",
+      "BuildNumberShort": "15.2.659.4",
+      "BuildNumberLong": "15.02.0659.004",
+      "CU": "6",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU5 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.595.8",
+      "BuildNumberLong": "15.02.0595.008",
+      "CU": "5",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU5",
+      "Date": "2020-03-17T00:00:00",
+      "BuildNumberShort": "15.2.595.3",
+      "BuildNumberLong": "15.02.0595.003",
+      "CU": "5",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU4 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.529.13",
+      "BuildNumberLong": "15.02.0529.013",
+      "CU": "4",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU4",
+      "Date": "2019-12-17T00:00:00",
+      "BuildNumberShort": "15.2.529.5",
+      "BuildNumberLong": "15.02.0529.005",
+      "CU": "4",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU3 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.464.15",
+      "BuildNumberLong": "15.02.0464.015",
+      "CU": "3",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU3",
+      "Date": "2019-09-17T00:00:00",
+      "BuildNumberShort": "15.2.464.5",
+      "BuildNumberLong": "15.02.0464.005",
+      "CU": "3",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU2 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.397.11",
+      "BuildNumberLong": "15.02.0397.011",
+      "CU": "2",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU2",
+      "Date": "2019-06-18T00:00:00",
+      "BuildNumberShort": "15.2.397.3",
+      "BuildNumberLong": "15.02.0397.003",
+      "CU": "2",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU1 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.330.11",
+      "BuildNumberLong": "15.02.0330.011",
+      "CU": "1",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU1",
+      "Date": "2019-02-12T00:00:00",
+      "BuildNumberShort": "15.2.330.5",
+      "BuildNumberLong": "15.02.0330.005",
+      "CU": "1",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 RTM Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.2.221.18",
+      "BuildNumberLong": "15.02.0221.018",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 RTM",
+      "Date": "2018-10-22T00:00:00",
+      "BuildNumberShort": "15.2.221.12",
+      "BuildNumberLong": "15.02.0221.012",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 Preview",
+      "Date": "2018-07-24T00:00:00",
+      "BuildNumberShort": "15.2.196.0",
+      "BuildNumberLong": "15.02.0196.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Mar23SU",
+      "Date": "2023-03-14T00:00:00",
+      "BuildNumberShort": "15.1.2507.23",
+      "BuildNumberLong": "15.01.2507.023",
+      "CU": "23",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Feb23SU",
+      "Date": "2023-02-14T00:00:00",
+      "BuildNumberShort": "15.1.2507.21",
+      "BuildNumberLong": "15.01.2507.021",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Jan23SU",
+      "Date": "2023-01-10T00:00:00",
+      "BuildNumberShort": "15.1.2507.17",
+      "BuildNumberLong": "15.01.2507.017",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Nov22SU",
+      "Date": "2022-11-08T00:00:00",
+      "BuildNumberShort": "15.1.2507.16",
+      "BuildNumberLong": "15.01.2507.016",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Oct22SU",
+      "Date": "2022-10-11T00:00:00",
+      "BuildNumberShort": "15.1.2507.13",
+      "BuildNumberLong": "15.01.2507.013",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Aug22SU",
+      "Date": "2022-08-09T00:00:00",
+      "BuildNumberShort": "15.1.2507.12",
+      "BuildNumberLong": "15.01.2507.012",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 May22SU",
+      "Date": "2022-05-10T00:00:00",
+      "BuildNumberShort": "15.1.2507.9",
+      "BuildNumberLong": "15.01.2507.009",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 (2022H1)",
+      "Date": "2022-04-20T00:00:00",
+      "BuildNumberShort": "15.1.2507.6",
+      "BuildNumberLong": "15.01.2507.006",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Nov22SU",
+      "Date": "2022-11-08T00:00:00",
+      "BuildNumberShort": "15.1.2375.37",
+      "BuildNumberLong": "15.01.2375.037",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Oct22SU",
+      "Date": "2022-10-11T00:00:00",
+      "BuildNumberShort": "15.1.2375.32",
+      "BuildNumberLong": "15.01.2375.032",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Aug22SU",
+      "Date": "2022-08-09T00:00:00",
+      "BuildNumberShort": "15.1.2375.31",
+      "BuildNumberLong": "15.01.2375.031",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 May22SU",
+      "Date": "2022-05-10T00:00:00",
+      "BuildNumberShort": "15.1.2375.28",
+      "BuildNumberLong": "15.01.2375.028",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Mar22SU",
+      "Date": "2022-03-08T00:00:00",
+      "BuildNumberShort": "15.1.2375.24",
+      "BuildNumberLong": "15.01.2375.024",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Jan22SU",
+      "Date": "2022-01-11T00:00:00",
+      "BuildNumberShort": "15.1.2375.18",
+      "BuildNumberLong": "15.01.2375.018",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Nov21SU",
+      "Date": "2021-11-09T00:00:00",
+      "BuildNumberShort": "15.1.2375.17",
+      "BuildNumberLong": "15.01.2375.017",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22 Oct21SU",
+      "Date": "2021-10-12T00:00:00",
+      "BuildNumberShort": "15.1.2375.12",
+      "BuildNumberLong": "15.01.2375.012",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU22",
+      "Date": "2021-09-28T00:00:00",
+      "BuildNumberShort": "15.1.2375.7",
+      "BuildNumberLong": "15.01.2375.007",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21 Mar22SU",
+      "Date": "2022-03-08T00:00:00",
+      "BuildNumberShort": "15.1.2308.27",
+      "BuildNumberLong": "15.01.2308.027",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21 Jan22SU",
+      "Date": "2022-01-11T00:00:00",
+      "BuildNumberShort": "15.1.2308.21",
+      "BuildNumberLong": "15.01.2308.021",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21 Nov21SU",
+      "Date": "2021-11-09T00:00:00",
+      "BuildNumberShort": "15.1.2308.20",
+      "BuildNumberLong": "15.01.2308.020",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21 Oct21SU",
+      "Date": "2021-10-12T00:00:00",
+      "BuildNumberShort": "15.1.2308.15",
+      "BuildNumberLong": "15.01.2308.015",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21 Jul21SU",
+      "Date": "2021-07-13T00:00:00",
+      "BuildNumberShort": "15.1.2308.14",
+      "BuildNumberLong": "15.01.2308.014",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU21",
+      "Date": "2021-06-29T00:00:00",
+      "BuildNumberShort": "15.1.2308.8",
+      "BuildNumberLong": "15.01.2308.008",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU20 Jul21SU",
+      "Date": "2021-07-13T00:00:00",
+      "BuildNumberShort": "15.1.2242.12",
+      "BuildNumberLong": "15.01.2242.012",
+      "CU": "20",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU20 May21SU",
+      "Date": "2021-05-11T00:00:00",
+      "BuildNumberShort": "15.1.2242.10",
+      "BuildNumberLong": "15.01.2242.010",
+      "CU": "20",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU20 Apr21SU",
+      "Date": "2021-04-13T00:00:00",
+      "BuildNumberShort": "15.1.2242.8",
+      "BuildNumberLong": "15.01.2242.008",
+      "CU": "20",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU20",
+      "Date": "2021-03-16T00:00:00",
+      "BuildNumberShort": "15.1.2242.4",
+      "BuildNumberLong": "15.01.2242.004",
+      "CU": "20",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU19 May21SU",
+      "Date": "2021-05-11T00:00:00",
+      "BuildNumberShort": "15.1.2176.14",
+      "BuildNumberLong": "15.01.2176.014",
+      "CU": "19",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU19 Apr21SU",
+      "Date": "2021-04-13T00:00:00",
+      "BuildNumberShort": "15.1.2176.12",
+      "BuildNumberLong": "15.01.2176.012",
+      "CU": "19",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU19 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.2176.9",
+      "BuildNumberLong": "15.01.2176.009",
+      "CU": "19",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU19",
+      "Date": "2020-12-15T00:00:00",
+      "BuildNumberShort": "15.1.2176.2",
+      "BuildNumberLong": "15.01.2176.002",
+      "CU": "19",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU18 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.2106.13",
+      "BuildNumberLong": "15.01.2106.013",
+      "CU": "18",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU18",
+      "Date": "2020-09-15T00:00:00",
+      "BuildNumberShort": "15.1.2106.2",
+      "BuildNumberLong": "15.01.2106.002",
+      "CU": "18",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU17 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.2044.13",
+      "BuildNumberLong": "15.01.2044.013",
+      "CU": "17",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU17",
+      "Date": "2020-06-16T00:00:00",
+      "BuildNumberShort": "15.1.2044.4",
+      "BuildNumberLong": "15.01.2044.004",
+      "CU": "17",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU16 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1979.8",
+      "BuildNumberLong": "15.01.1979.008",
+      "CU": "16",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU16",
+      "Date": "2020-03-17T00:00:00",
+      "BuildNumberShort": "15.1.1979.3",
+      "BuildNumberLong": "15.01.1979.003",
+      "CU": "16",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU15 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1913.12",
+      "BuildNumberLong": "15.01.1913.012",
+      "CU": "15",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU15",
+      "Date": "2019-12-17T00:00:00",
+      "BuildNumberShort": "15.1.1913.5",
+      "BuildNumberLong": "15.01.1913.005",
+      "CU": "15",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU14 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1847.12",
+      "BuildNumberLong": "15.01.1847.012",
+      "CU": "14",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU14",
+      "Date": "2019-09-17T00:00:00",
+      "BuildNumberShort": "15.1.1847.3",
+      "BuildNumberLong": "15.01.1847.003",
+      "CU": "14",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU13 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1779.8",
+      "BuildNumberLong": "15.01.1779.008",
+      "CU": "13",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU13",
+      "Date": "2019-06-18T00:00:00",
+      "BuildNumberShort": "15.1.1779.2",
+      "BuildNumberLong": "15.01.1779.002",
+      "CU": "13",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU12 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1713.10",
+      "BuildNumberLong": "15.01.1713.010",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU12",
+      "Date": "2019-02-12T00:00:00",
+      "BuildNumberShort": "15.1.1713.5",
+      "BuildNumberLong": "15.01.1713.005",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU11 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1591.18",
+      "BuildNumberLong": "15.01.1591.018",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU11",
+      "Date": "2018-10-16T00:00:00",
+      "BuildNumberShort": "15.1.1591.10",
+      "BuildNumberLong": "15.01.1591.010",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU10 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1531.12",
+      "BuildNumberLong": "15.01.1531.012",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU10",
+      "Date": "2018-06-19T00:00:00",
+      "BuildNumberShort": "15.1.1531.3",
+      "BuildNumberLong": "15.01.1531.003",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU9 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1466.16",
+      "BuildNumberLong": "15.01.1466.016",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU9",
+      "Date": "2018-03-20T00:00:00",
+      "BuildNumberShort": "15.1.1466.3",
+      "BuildNumberLong": "15.01.1466.003",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU8 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.1.1415.10",
+      "BuildNumberLong": "15.01.1415.010",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU8",
+      "Date": "2017-12-19T00:00:00",
+      "BuildNumberShort": "15.1.1415.2",
+      "BuildNumberLong": "15.01.1415.002",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU7",
+      "Date": "2017-09-19T00:00:00",
+      "BuildNumberShort": "15.1.1261.35",
+      "BuildNumberLong": "15.01.1261.035",
+      "CU": "7",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU6",
+      "Date": "2017-06-27T00:00:00",
+      "BuildNumberShort": "15.1.1034.26",
+      "BuildNumberLong": "15.01.1034.026",
+      "CU": "6",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU5",
+      "Date": "2017-03-21T00:00:00",
+      "BuildNumberShort": "15.1.845.34",
+      "BuildNumberLong": "15.01.0845.034",
+      "CU": "5",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU4",
+      "Date": "2016-12-13T00:00:00",
+      "BuildNumberShort": "15.1.669.32",
+      "BuildNumberLong": "15.01.0669.032",
+      "CU": "4",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU3",
+      "Date": "2016-09-20T00:00:00",
+      "BuildNumberShort": "15.1.544.27",
+      "BuildNumberLong": "15.01.0544.027",
+      "CU": "3",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU2",
+      "Date": "2016-06-21T00:00:00",
+      "BuildNumberShort": "15.1.466.34",
+      "BuildNumberLong": "15.01.0466.034",
+      "CU": "2",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU1",
+      "Date": "2016-03-15T00:00:00",
+      "BuildNumberShort": "15.1.396.30",
+      "BuildNumberLong": "15.01.0396.030",
+      "CU": "1",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 RTM",
+      "Date": "2015-10-01T00:00:00",
+      "BuildNumberShort": "15.1.225.42",
+      "BuildNumberLong": "15.01.0225.042",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 Preview",
+      "Date": "2015-07-22T00:00:00",
+      "BuildNumberShort": "15.1.225.16",
+      "BuildNumberLong": "15.01.0225.016",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Mar23SU",
+      "Date": "2023-03-14T00:00:00",
+      "BuildNumberShort": "15.0.1497.48",
+      "BuildNumberLong": "15.00.1497.048",
+      "CU": "23",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Feb23SU",
+      "Date": "2023-02-14T00:00:00",
+      "BuildNumberShort": "15.0.1497.47",
+      "BuildNumberLong": "15.00.1497.047",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Jan23SU",
+      "Date": "2023-01-10T00:00:00",
+      "BuildNumberShort": "15.0.1497.45",
+      "BuildNumberLong": "15.00.1497.045",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Nov22SU",
+      "Date": "2022-11-08T00:00:00",
+      "BuildNumberShort": "15.0.1497.44",
+      "BuildNumberLong": "15.00.1497.044",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Oct22SU",
+      "Date": "2022-10-11T00:00:00",
+      "BuildNumberShort": "15.0.1497.42",
+      "BuildNumberLong": "15.00.1497.042",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Aug22SU",
+      "Date": "2022-08-09T00:00:00",
+      "BuildNumberShort": "15.0.1497.40",
+      "BuildNumberLong": "15.00.1497.040",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 May22SU",
+      "Date": "2022-05-10T00:00:00",
+      "BuildNumberShort": "15.0.1497.36",
+      "BuildNumberLong": "15.00.1497.036",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Mar22SU",
+      "Date": "2022-03-08T00:00:00",
+      "BuildNumberShort": "15.0.1497.33",
+      "BuildNumberLong": "15.00.1497.033",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Jan22SU",
+      "Date": "2022-01-11T00:00:00",
+      "BuildNumberShort": "15.0.1497.28",
+      "BuildNumberLong": "15.00.1497.028",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Nov21SU",
+      "Date": "2021-11-09T00:00:00",
+      "BuildNumberShort": "15.0.1497.26",
+      "BuildNumberLong": "15.00.1497.026",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Oct21SU",
+      "Date": "2021-10-12T00:00:00",
+      "BuildNumberShort": "15.0.1497.24",
+      "BuildNumberLong": "15.00.1497.024",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Jul21SU",
+      "Date": "2021-07-13T00:00:00",
+      "BuildNumberShort": "15.0.1497.23",
+      "BuildNumberLong": "15.00.1497.023",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 May21SU",
+      "Date": "2021-05-11T00:00:00",
+      "BuildNumberShort": "15.0.1497.18",
+      "BuildNumberLong": "15.00.1497.018",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Apr21SU",
+      "Date": "2021-04-13T00:00:00",
+      "BuildNumberShort": "15.0.1497.15",
+      "BuildNumberLong": "15.00.1497.015",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.0.1497.12",
+      "BuildNumberLong": "15.00.1497.012",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU23",
+      "Date": "2019-06-18T00:00:00",
+      "BuildNumberShort": "15.0.1497.2",
+      "BuildNumberLong": "15.00.1497.002",
+      "CU": "23",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU22 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.0.1473.6",
+      "BuildNumberLong": "15.00.1473.006",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU22",
+      "Date": "2019-02-12T00:00:00",
+      "BuildNumberShort": "15.0.1473.3",
+      "BuildNumberLong": "15.00.1473.003",
+      "CU": "22",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU21 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.0.1395.12",
+      "BuildNumberLong": "15.00.1395.012",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU21",
+      "Date": "2018-06-19T00:00:00",
+      "BuildNumberShort": "15.0.1395.4",
+      "BuildNumberLong": "15.00.1395.004",
+      "CU": "21",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU20",
+      "Date": "2018-03-20T00:00:00",
+      "BuildNumberShort": "15.0.1367.3",
+      "BuildNumberLong": "15.00.1367.003",
+      "CU": "20",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU19",
+      "Date": "2017-12-19T00:00:00",
+      "BuildNumberShort": "15.0.1365.1",
+      "BuildNumberLong": "15.00.1365.001",
+      "CU": "19",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU18",
+      "Date": "2017-09-19T00:00:00",
+      "BuildNumberShort": "15.0.1347.2",
+      "BuildNumberLong": "15.00.1347.002",
+      "CU": "18",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU17",
+      "Date": "2017-06-27T00:00:00",
+      "BuildNumberShort": "15.0.1320.4",
+      "BuildNumberLong": "15.00.1320.004",
+      "CU": "17",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU16",
+      "Date": "2017-03-21T00:00:00",
+      "BuildNumberShort": "15.0.1293.2",
+      "BuildNumberLong": "15.00.1293.002",
+      "CU": "16",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU15",
+      "Date": "2016-12-13T00:00:00",
+      "BuildNumberShort": "15.0.1263.5",
+      "BuildNumberLong": "15.00.1263.005",
+      "CU": "15",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU14",
+      "Date": "2016-09-20T00:00:00",
+      "BuildNumberShort": "15.0.1236.3",
+      "BuildNumberLong": "15.00.1236.003",
+      "CU": "14",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU13",
+      "Date": "2016-06-21T00:00:00",
+      "BuildNumberShort": "15.0.1210.3",
+      "BuildNumberLong": "15.00.1210.003",
+      "CU": "13",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU12",
+      "Date": "2016-03-15T00:00:00",
+      "BuildNumberShort": "15.0.1178.4",
+      "BuildNumberLong": "15.00.1178.004",
+      "CU": "12",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU11",
+      "Date": "2015-12-15T00:00:00",
+      "BuildNumberShort": "15.0.1156.6",
+      "BuildNumberLong": "15.00.1156.006",
+      "CU": "11",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU10",
+      "Date": "2015-09-15T00:00:00",
+      "BuildNumberShort": "15.0.1130.7",
+      "BuildNumberLong": "15.00.1130.007",
+      "CU": "10",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU9",
+      "Date": "2015-06-17T00:00:00",
+      "BuildNumberShort": "15.0.1104.5",
+      "BuildNumberLong": "15.00.1104.005",
+      "CU": "9",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU8",
+      "Date": "2015-03-17T00:00:00",
+      "BuildNumberShort": "15.0.1076.9",
+      "BuildNumberLong": "15.00.1076.009",
+      "CU": "8",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU7",
+      "Date": "2014-12-09T00:00:00",
+      "BuildNumberShort": "15.0.1044.25",
+      "BuildNumberLong": "15.00.1044.025",
+      "CU": "7",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU6",
+      "Date": "2014-08-26T00:00:00",
+      "BuildNumberShort": "15.0.995.29",
+      "BuildNumberLong": "15.00.0995.029",
+      "CU": "6",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU5",
+      "Date": "2014-05-27T00:00:00",
+      "BuildNumberShort": "15.0.913.22",
+      "BuildNumberLong": "15.00.0913.022",
+      "CU": "5",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 SP1 Mar21SU",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "15.0.847.64",
+      "BuildNumberLong": "15.00.0847.064",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 SP1",
+      "Date": "2014-02-25T00:00:00",
+      "BuildNumberShort": "15.0.847.32",
+      "BuildNumberLong": "15.00.0847.032",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU3",
+      "Date": "2013-11-25T00:00:00",
+      "BuildNumberShort": "15.0.775.38",
+      "BuildNumberLong": "15.00.0775.038",
+      "CU": "3",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU2",
+      "Date": "2013-07-09T00:00:00",
+      "BuildNumberShort": "15.0.712.24",
+      "BuildNumberLong": "15.00.0712.024",
+      "CU": "2",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 CU1",
+      "Date": "2013-04-02T00:00:00",
+      "BuildNumberShort": "15.0.620.29",
+      "BuildNumberLong": "15.00.0620.029",
+      "CU": "1",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2013 RTM",
+      "Date": "2012-12-03T00:00:00",
+      "BuildNumberShort": "15.0.516.32",
+      "BuildNumberLong": "15.00.0516.032",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 32 for Exchange Server 2010 SP3",
+      "Date": "2021-03-02T00:00:00",
+      "BuildNumberShort": "14.3.513.0",
+      "BuildNumberLong": "14.03.0513.000",
+      "CU": "",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Update Rollup 31 for Exchange Server 2010 SP3",
+      "Date": "2020-12-01T00:00:00",
+      "BuildNumberShort": "14.3.509.0",
+      "BuildNumberLong": "14.03.0509.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 30 for Exchange Server 2010 SP3",
+      "Date": "2020-02-11T00:00:00",
+      "BuildNumberShort": "14.3.496.0",
+      "BuildNumberLong": "14.03.0496.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 29 for Exchange Server 2010 SP3",
+      "Date": "2019-07-09T00:00:00",
+      "BuildNumberShort": "14.3.468.0",
+      "BuildNumberLong": "14.03.0468.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 28 for Exchange Server 2010 SP3",
+      "Date": "2019-06-07T00:00:00",
+      "BuildNumberShort": "14.3.461.1",
+      "BuildNumberLong": "14.03.0461.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 27 for Exchange Server 2010 SP3",
+      "Date": "2019-04-09T00:00:00",
+      "BuildNumberShort": "14.3.452.0",
+      "BuildNumberLong": "14.03.0452.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 26 for Exchange Server 2010 SP3",
+      "Date": "2019-02-12T00:00:00",
+      "BuildNumberShort": "14.3.442.0",
+      "BuildNumberLong": "14.03.0442.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 25 for Exchange Server 2010 SP3",
+      "Date": "2019-01-08T00:00:00",
+      "BuildNumberShort": "14.3.435.0",
+      "BuildNumberLong": "14.03.0435.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 24 for Exchange Server 2010 SP3",
+      "Date": "2018-09-05T00:00:00",
+      "BuildNumberShort": "14.3.419.0",
+      "BuildNumberLong": "14.03.0419.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 23 for Exchange Server 2010 SP3",
+      "Date": "2018-08-13T00:00:00",
+      "BuildNumberShort": "14.3.417.1",
+      "BuildNumberLong": "14.03.0417.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 22 for Exchange Server 2010 SP3",
+      "Date": "2018-06-19T00:00:00",
+      "BuildNumberShort": "14.3.411.0",
+      "BuildNumberLong": "14.03.0411.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 21 for Exchange Server 2010 SP3",
+      "Date": "2018-05-07T00:00:00",
+      "BuildNumberShort": "14.3.399.2",
+      "BuildNumberLong": "14.03.0399.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 20 for Exchange Server 2010 SP3",
+      "Date": "2018-03-05T00:00:00",
+      "BuildNumberShort": "14.3.389.1",
+      "BuildNumberLong": "14.03.0389.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 19 for Exchange Server 2010 SP3",
+      "Date": "2017-12-19T00:00:00",
+      "BuildNumberShort": "14.3.382.0",
+      "BuildNumberLong": "14.03.0382.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 18 for Exchange Server 2010 SP3",
+      "Date": "2017-07-11T00:00:00",
+      "BuildNumberShort": "14.3.361.1",
+      "BuildNumberLong": "14.03.0361.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 17 for Exchange Server 2010 SP3",
+      "Date": "2017-03-21T00:00:00",
+      "BuildNumberShort": "14.3.352.0",
+      "BuildNumberLong": "14.03.0352.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 16 for Exchange Server 2010 SP3",
+      "Date": "2016-12-13T00:00:00",
+      "BuildNumberShort": "14.3.336.0",
+      "BuildNumberLong": "14.03.0336.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 15 for Exchange Server 2010 SP3",
+      "Date": "2016-09-20T00:00:00",
+      "BuildNumberShort": "14.3.319.2",
+      "BuildNumberLong": "14.03.0319.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 14 for Exchange Server 2010 SP3",
+      "Date": "2016-06-21T00:00:00",
+      "BuildNumberShort": "14.3.301.0",
+      "BuildNumberLong": "14.03.0301.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 13 for Exchange Server 2010 SP3",
+      "Date": "2016-03-15T00:00:00",
+      "BuildNumberShort": "14.3.294.0",
+      "BuildNumberLong": "14.03.0294.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 12 for Exchange Server 2010 SP3",
+      "Date": "2015-12-15T00:00:00",
+      "BuildNumberShort": "14.3.279.2",
+      "BuildNumberLong": "14.03.0279.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 11 for Exchange Server 2010 SP3",
+      "Date": "2015-09-15T00:00:00",
+      "BuildNumberShort": "14.3.266.2",
+      "BuildNumberLong": "14.03.0266.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 10 for Exchange Server 2010 SP3",
+      "Date": "2015-06-17T00:00:00",
+      "BuildNumberShort": "14.3.248.2",
+      "BuildNumberLong": "14.03.0248.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 9 for Exchange Server 2010 SP3",
+      "Date": "2015-03-17T00:00:00",
+      "BuildNumberShort": "14.3.235.1",
+      "BuildNumberLong": "14.03.0235.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 v2 for Exchange Server 2010 SP3",
+      "Date": "2014-12-12T00:00:00",
+      "BuildNumberShort": "14.3.224.2",
+      "BuildNumberLong": "14.03.0224.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 v1 for Exchange Server 2010 SP3 (recalled)",
+      "Date": "2014-12-09T00:00:00",
+      "BuildNumberShort": "14.3.224.1",
+      "BuildNumberLong": "14.03.0224.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2010 SP3",
+      "Date": "2014-08-26T00:00:00",
+      "BuildNumberShort": "14.3.210.2",
+      "BuildNumberLong": "14.03.0210.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 for Exchange Server 2010 SP3",
+      "Date": "2014-05-27T00:00:00",
+      "BuildNumberShort": "14.3.195.1",
+      "BuildNumberLong": "14.03.0195.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2010 SP3",
+      "Date": "2014-02-24T00:00:00",
+      "BuildNumberShort": "14.3.181.6",
+      "BuildNumberLong": "14.03.0181.006",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2010 SP3",
+      "Date": "2013-12-09T00:00:00",
+      "BuildNumberShort": "14.3.174.1",
+      "BuildNumberLong": "14.03.0174.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2010 SP3",
+      "Date": "2013-11-25T00:00:00",
+      "BuildNumberShort": "14.3.169.1",
+      "BuildNumberLong": "14.03.0169.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2010 SP3",
+      "Date": "2013-08-08T00:00:00",
+      "BuildNumberShort": "14.3.158.1",
+      "BuildNumberLong": "14.03.0158.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2010 SP3",
+      "Date": "2013-05-29T00:00:00",
+      "BuildNumberShort": "14.3.146.0",
+      "BuildNumberLong": "14.03.0146.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2010 SP3",
+      "Date": "2013-02-12T00:00:00",
+      "BuildNumberShort": "14.3.123.4",
+      "BuildNumberLong": "14.03.0123.004",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 for Exchange Server 2010 SP2",
+      "Date": "2013-12-09T00:00:00",
+      "BuildNumberShort": "14.2.390.3",
+      "BuildNumberLong": "14.02.0390.003",
+      "CU": "",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2010 SP2",
+      "Date": "2013-08-03T00:00:00",
+      "BuildNumberShort": "14.2.375.0",
+      "BuildNumberLong": "14.02.0375.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 Exchange Server 2010 SP2",
+      "Date": "2013-02-12T00:00:00",
+      "BuildNumberShort": "14.2.342.3",
+      "BuildNumberLong": "14.02.0342.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 v2 for Exchange Server 2010 SP2",
+      "Date": "2012-12-10T00:00:00",
+      "BuildNumberShort": "14.2.328.10",
+      "BuildNumberLong": "14.02.0328.010",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2010 SP2",
+      "Date": "2012-11-13T00:00:00",
+      "BuildNumberShort": "14.3.328.5",
+      "BuildNumberLong": "14.03.0328.005",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 v2 for Exchange Server 2010 SP2",
+      "Date": "2012-10-09T00:00:00",
+      "BuildNumberShort": "14.2.318.4",
+      "BuildNumberLong": "14.02.0318.004",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2010 SP2",
+      "Date": "2012-08-13T00:00:00",
+      "BuildNumberShort": "14.2.318.2",
+      "BuildNumberLong": "14.02.0318.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2010 SP2",
+      "Date": "2012-05-29T00:00:00",
+      "BuildNumberShort": "14.2.309.2",
+      "BuildNumberLong": "14.02.0309.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2010 SP2",
+      "Date": "2012-04-16T00:00:00",
+      "BuildNumberShort": "14.2.298.4",
+      "BuildNumberLong": "14.02.0298.004",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2010 SP2",
+      "Date": "2012-02-13T00:00:00",
+      "BuildNumberShort": "14.2.283.3",
+      "BuildNumberLong": "14.02.0283.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2010 SP2",
+      "Date": "2011-12-04T00:00:00",
+      "BuildNumberShort": "14.2.247.5",
+      "BuildNumberLong": "14.02.0247.005",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 for Exchange Server 2010 SP1",
+      "Date": "2012-12-10T00:00:00",
+      "BuildNumberShort": "14.1.438.0",
+      "BuildNumberLong": "14.01.0438.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 v3 for Exchange Server 2010 SP1",
+      "Date": "2012-11-13T00:00:00",
+      "BuildNumberShort": "14.1.421.3",
+      "BuildNumberLong": "14.01.0421.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 v2 for Exchange Server 2010 SP1",
+      "Date": "2012-10-10T00:00:00",
+      "BuildNumberShort": "14.1.421.2",
+      "BuildNumberLong": "14.01.0421.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2010 SP1",
+      "Date": "2012-08-08T00:00:00",
+      "BuildNumberShort": "14.1.421.0",
+      "BuildNumberLong": "14.01.0421.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 for Exchange Server 2010 SP1",
+      "Date": "2011-10-27T00:00:00",
+      "BuildNumberShort": "14.1.355.2",
+      "BuildNumberLong": "14.01.0355.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2010 SP1",
+      "Date": "2011-08-23T00:00:00",
+      "BuildNumberShort": "14.1.339.1",
+      "BuildNumberLong": "14.01.0339.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2010 SP1",
+      "Date": "2011-07-27T00:00:00",
+      "BuildNumberShort": "14.1.323.6",
+      "BuildNumberLong": "14.01.0323.006",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2010 SP1",
+      "Date": "2011-04-06T00:00:00",
+      "BuildNumberShort": "14.1.289.7",
+      "BuildNumberLong": "14.01.0289.007",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2010 SP1",
+      "Date": "2010-12-09T00:00:00",
+      "BuildNumberShort": "14.1.270.1",
+      "BuildNumberLong": "14.01.0270.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2010 SP1",
+      "Date": "2010-10-04T00:00:00",
+      "BuildNumberShort": "14.1.255.2",
+      "BuildNumberLong": "14.01.0255.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2010 SP1",
+      "Date": "2010-08-23T00:00:00",
+      "BuildNumberShort": "14.1.218.15",
+      "BuildNumberLong": "14.01.0218.015",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2010",
+      "Date": "2010-12-13T00:00:00",
+      "BuildNumberShort": "14.0.726.0",
+      "BuildNumberLong": "14.00.0726.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2010",
+      "Date": "2010-06-10T00:00:00",
+      "BuildNumberShort": "14.0.702.1",
+      "BuildNumberLong": "14.00.0702.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2010",
+      "Date": "2010-04-13T00:00:00",
+      "BuildNumberShort": "14.0.694.0",
+      "BuildNumberLong": "14.00.0694.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2010",
+      "Date": "2010-03-04T00:00:00",
+      "BuildNumberShort": "14.0.689.0",
+      "BuildNumberLong": "14.00.0689.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2010",
+      "Date": "2009-12-09T00:00:00",
+      "BuildNumberShort": "14.0.682.1",
+      "BuildNumberLong": "14.00.0682.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2010 RTM",
+      "Date": "2009-11-09T00:00:00",
+      "BuildNumberShort": "14.0.639.21",
+      "BuildNumberLong": "14.00.0639.021",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 23 for Exchange Server 2007 SP3",
+      "Date": "2017-03-21T00:00:00",
+      "BuildNumberShort": "8.3.517.0",
+      "BuildNumberLong": "8.03.0517.000",
+      "CU": "",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Update Rollup 22 for Exchange Server 2007 SP3",
+      "Date": "2016-12-13T00:00:00",
+      "BuildNumberShort": "8.3.502.0",
+      "BuildNumberLong": "8.03.0502.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 21 for Exchange Server 2007 SP3",
+      "Date": "2016-09-20T00:00:00",
+      "BuildNumberShort": "8.3.485.1",
+      "BuildNumberLong": "8.03.0485.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 20 for Exchange Server 2007 SP3",
+      "Date": "2016-06-21T00:00:00",
+      "BuildNumberShort": "8.3.468.0",
+      "BuildNumberLong": "8.03.0468.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 19 forExchange Server 2007 SP3",
+      "Date": "2016-03-15T00:00:00",
+      "BuildNumberShort": "8.3.459.0",
+      "BuildNumberLong": "8.03.0459.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 18 forExchange Server 2007 SP3",
+      "Date": "2015-12-01T00:00:00",
+      "BuildNumberShort": "8.3.445.0",
+      "BuildNumberLong": "8.03.0445.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 17 forExchange Server 2007 SP3",
+      "Date": "2015-06-17T00:00:00",
+      "BuildNumberShort": "8.3.417.1",
+      "BuildNumberLong": "8.03.0417.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 16 for Exchange Server 2007 SP3",
+      "Date": "2015-03-17T00:00:00",
+      "BuildNumberShort": "8.3.406.0",
+      "BuildNumberLong": "8.03.0406.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 15 for Exchange Server 2007 SP3",
+      "Date": "2014-12-09T00:00:00",
+      "BuildNumberShort": "8.3.389.2",
+      "BuildNumberLong": "8.03.0389.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 14 for Exchange Server 2007 SP3",
+      "Date": "2014-08-26T00:00:00",
+      "BuildNumberShort": "8.3.379.2",
+      "BuildNumberLong": "8.03.0379.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 13 for Exchange Server 2007 SP3",
+      "Date": "2014-02-24T00:00:00",
+      "BuildNumberShort": "8.3.348.2",
+      "BuildNumberLong": "8.03.0348.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 12 for Exchange Server 2007 SP3",
+      "Date": "2013-12-09T00:00:00",
+      "BuildNumberShort": "8.3.342.4",
+      "BuildNumberLong": "8.03.0342.004",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 11 for Exchange Server 2007 SP3",
+      "Date": "2013-08-13T00:00:00",
+      "BuildNumberShort": "8.3.327.1",
+      "BuildNumberLong": "8.03.0327.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 10 for Exchange Server 2007 SP3",
+      "Date": "2013-02-11T00:00:00",
+      "BuildNumberShort": "8.3.298.3",
+      "BuildNumberLong": "8.03.0298.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 9 for Exchange Server 2007 SP3",
+      "Date": "2012-12-10T00:00:00",
+      "BuildNumberShort": "8.3.297.2",
+      "BuildNumberLong": "8.03.0297.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8-v3 for Exchange Server 2007 SP3",
+      "Date": "2012-11-13T00:00:00",
+      "BuildNumberShort": "8.3.279.6",
+      "BuildNumberLong": "8.03.0279.006",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8-v2 for Exchange Server 2007 SP3",
+      "Date": "2012-10-09T00:00:00",
+      "BuildNumberShort": "8.3.279.5",
+      "BuildNumberLong": "8.03.0279.005",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 for Exchange Server 2007 SP3",
+      "Date": "2012-08-13T00:00:00",
+      "BuildNumberShort": "8.3.279.3",
+      "BuildNumberLong": "8.03.0279.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2007 SP3",
+      "Date": "2012-04-16T00:00:00",
+      "BuildNumberShort": "8.3.264.0",
+      "BuildNumberLong": "8.03.0264.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 for Exchange Server 2007 SP3",
+      "Date": "2012-01-26T00:00:00",
+      "BuildNumberShort": "8.3.245.2",
+      "BuildNumberLong": "8.03.0245.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2007 SP3",
+      "Date": "2011-09-21T00:00:00",
+      "BuildNumberShort": "8.3.213.1",
+      "BuildNumberLong": "8.03.0213.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2007 SP3",
+      "Date": "2011-05-28T00:00:00",
+      "BuildNumberShort": "8.3.192.1",
+      "BuildNumberLong": "8.03.0192.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3-v2 for Exchange Server 2007 SP3",
+      "Date": "2011-03-30T00:00:00",
+      "BuildNumberShort": "8.3.159.2",
+      "BuildNumberLong": "8.03.0159.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2007 SP3",
+      "Date": "2010-12-10T00:00:00",
+      "BuildNumberShort": "8.3.137.3",
+      "BuildNumberLong": "8.03.0137.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2007 SP3",
+      "Date": "2010-09-09T00:00:00",
+      "BuildNumberShort": "8.3.106.2",
+      "BuildNumberLong": "8.03.0106.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2007 SP3",
+      "Date": "2010-06-07T00:00:00",
+      "BuildNumberShort": "8.3.83.6",
+      "BuildNumberLong": "8.03.0083.006",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2007 SP2",
+      "Date": "2010-12-07T00:00:00",
+      "BuildNumberShort": "8.2.305.3",
+      "BuildNumberLong": "8.02.0305.003",
+      "CU": "",
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2007 SP2",
+      "Date": "2010-04-09T00:00:00",
+      "BuildNumberShort": "8.2.254.0",
+      "BuildNumberLong": "8.02.0254.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2007 SP2",
+      "Date": "2010-03-17T00:00:00",
+      "BuildNumberShort": "8.2.247.2",
+      "BuildNumberLong": "8.02.0247.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2007 SP2",
+      "Date": "2010-01-22T00:00:00",
+      "BuildNumberShort": "8.2.234.1",
+      "BuildNumberLong": "8.02.0234.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2007 SP2",
+      "Date": "2009-11-19T00:00:00",
+      "BuildNumberShort": "8.2.217.3",
+      "BuildNumberLong": "8.02.0217.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2007 SP2",
+      "Date": "2009-08-24T00:00:00",
+      "BuildNumberShort": "8.2.176.2",
+      "BuildNumberLong": "8.02.0176.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 10 for Exchange Server 2007 SP1",
+      "Date": "2010-04-13T00:00:00",
+      "BuildNumberShort": "8.1.436.0",
+      "BuildNumberLong": "8.01.0436.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 9 for Exchange Server 2007 SP1",
+      "Date": "2009-07-16T00:00:00",
+      "BuildNumberShort": "8.1.393.1",
+      "BuildNumberLong": "8.01.0393.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 8 for Exchange Server 2007 SP1",
+      "Date": "2009-05-19T00:00:00",
+      "BuildNumberShort": "8.1.375.2",
+      "BuildNumberLong": "8.01.0375.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2007 SP1",
+      "Date": "2009-03-18T00:00:00",
+      "BuildNumberShort": "8.1.359.2",
+      "BuildNumberLong": "8.01.0359.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 for Exchange Server 2007 SP1",
+      "Date": "2009-02-10T00:00:00",
+      "BuildNumberShort": "8.1.340.1",
+      "BuildNumberLong": "8.01.0340.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2007 SP1",
+      "Date": "2008-11-20T00:00:00",
+      "BuildNumberShort": "8.1.336.1",
+      "BuildNumberLong": "8.01.0336.01",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2007 SP1",
+      "Date": "2008-10-07T00:00:00",
+      "BuildNumberShort": "8.1.311.3",
+      "BuildNumberLong": "8.01.0311.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2007 SP1",
+      "Date": "2008-07-08T00:00:00",
+      "BuildNumberShort": "8.1.291.2",
+      "BuildNumberLong": "8.01.0291.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2007 SP1",
+      "Date": "2008-05-09T00:00:00",
+      "BuildNumberShort": "8.1.278.2",
+      "BuildNumberLong": "8.01.0278.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2007 SP1",
+      "Date": "2008-02-28T00:00:00",
+      "BuildNumberShort": "8.1.263.1",
+      "BuildNumberLong": "8.01.0263.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2007 SP1",
+      "Date": "2007-11-29T00:00:00",
+      "BuildNumberShort": "8.1.240.6",
+      "BuildNumberLong": "8.01.0240.006",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 7 for Exchange Server 2007",
+      "Date": "2008-07-08T00:00:00",
+      "BuildNumberShort": "8.0.813.0",
+      "BuildNumberLong": "8.00.0813.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 6 for Exchange Server 2007",
+      "Date": "2008-02-21T00:00:00",
+      "BuildNumberShort": "8.0.783.2",
+      "BuildNumberLong": "8.00.0783.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 5 for Exchange Server 2007",
+      "Date": "2007-10-25T00:00:00",
+      "BuildNumberShort": "8.0.754.0",
+      "BuildNumberLong": "8.00.0754.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 4 for Exchange Server 2007",
+      "Date": "2007-08-23T00:00:00",
+      "BuildNumberShort": "8.0.744.0",
+      "BuildNumberLong": "8.00.0744.000",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 3 for Exchange Server 2007",
+      "Date": "2007-06-28T00:00:00",
+      "BuildNumberShort": "8.0.730.1",
+      "BuildNumberLong": "8.00.0730.001",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 2 for Exchange Server 2007",
+      "Date": "2007-05-08T00:00:00",
+      "BuildNumberShort": "8.0.711.2",
+      "BuildNumberLong": "8.00.0711.002",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Update Rollup 1 for Exchange Server 2007",
+      "Date": "2007-04-17T00:00:00",
+      "BuildNumberShort": "8.0.708.3",
+      "BuildNumberLong": "8.00.0708.003",
+      "CU": "",
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2007 RTM",
+      "Date": "2007-03-08T00:00:00",
+      "BuildNumberShort": "8.0.685.25",
+      "BuildNumberLong": "8.00.0685.025",
+      "CU": "",
+      "IsCurrent": false
+    }
+  ]
+}
