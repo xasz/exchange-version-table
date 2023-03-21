@@ -69,7 +69,7 @@ $objectData | ConvertTo-Json | Out-File -FilePath "data/data.json"
 # Markdown Export
 $sb = [System.Text.StringBuilder]::new()
 [void]$sb.AppendLine("# Exchange Version Table");
-[void]$sb.AppendLine("Generation: $($objectData.ToString())");
+[void]$sb.AppendLine("Generation: $((Get-Date).ToString())");
 [void]$sb.AppendLine("Source: $MS_EXCHANGE_VERSION_PAGE");
 [void]$sb.AppendLine();
 

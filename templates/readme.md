@@ -38,9 +38,44 @@ $data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/da
 ```
 
 ## Data Resources
-| Format | Resource |
-| - | - |
-| Json | [https://xasz.github.io/exchange-version-table/data/data.json](data/data.json) | 
-| Markdown | [https://xasz.github.io/exchange-version-table/data/data.md](data/data.md) |
 
+## Json 
 
+[https://xasz.github.io/exchange-version-table/data/data.json](data/data.json)
+
+**Section:**
+```json 
+{
+  "GenerationDate": "2023-03-21T15:53:54.5295015+01:00",
+  "Source": "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates",
+  "Releases": [
+    {
+      "ProductName": "Exchange Server 2019 CU12 Mar23SU",
+      "Date": "2023-03-14T00:00:00",
+      "BuildNumberShort": "15.2.1118.26",
+      "BuildNumberLong": "15.02.1118.026",
+      "CU": "12",
+      "IsCurrent": true
+    },
+    ...
+    ]
+}
+ ```
+
+ ## Markdown
+
+[https://xasz.github.io/exchange-version-table/data/data.md](data/data.md)
+
+**Section:**
+
+```
+# Exchange Version Table
+Generation: 
+Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates
+
+# Exchange Server 2019
+
+| Product Name | Date | Build Number (Short) | Build Number (Long) |
+|:- | - | - | - |
+| **Exchange Server 2019 CU12 Mar23SU** | **2023-03-14** | **15.2.1118.26** | **15.02.1118.026** |
+ ```

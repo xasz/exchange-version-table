@@ -1,5 +1,5 @@
 # Exchange Version Table
-Generation: 
+Generation: 21.03.2023 16:06:32
 Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates
 
 # Exchange Server 2019
