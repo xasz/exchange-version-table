@@ -1,5 +1,3 @@
-# This is work in progress
-
 # Microsoft Exchange Version Table
 ![Really not Microsoft](https://img.shields.io/badge/Not%20Official-Not%20Microsoft-red)
 ![Really not Microsoft](https://img.shields.io/badge/Scraped-From%20Microsoft-yellow)
@@ -37,6 +35,28 @@ if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion})
 $exchangeVersion = (Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}).ProductVersion
 $data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/data.json"
 ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).CU
+```
+
+## Example Usage: Do i have a supported CU
+
+We are using the CUOffset value which is counting up as older as it gets, starting at 0.
+
+> Critical product updates (packages that address a Microsoft-released security bulletin or contain a change in time zone definitions) are released as needed on a monthly basis for the most recently released CU and the preceding CU.
+
+So we can simply check if the CUOffset is bigger than 1 and then we have an unsupported CU.
+
+> For now this does only works for actually supported Exchange Server Versions. Unsupported Versions like 2010/2007 and soon 2013 should be irrelevant anyway.
+
+
+```powershell
+# Run in Exchange Management Shell
+$exchangeVersion = (Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}).ProductVersion
+$data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/data.json"
+if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).IsCurrent){
+    Write-Host "Your Exchange is Up2Date" -ForegroundColor Green
+}else{
+    Write-Host "Shame on you - Please install the latest Exchange Update" -ForegroundColor Red
+}
 ```
 
 ## Data Resources
@@ -82,7 +102,7 @@ Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and
 | **Exchange Server 2019 CU12 Mar23SU** | **2023-03-14** | **15.2.1118.26** | **15.02.1118.026** |
  ```
 # Exchange Version Table
-Generation: 21.03.2023 16:06:32
+Generation: 22.03.2023 16:52:56
 Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates
 
 # Exchange Server 2019

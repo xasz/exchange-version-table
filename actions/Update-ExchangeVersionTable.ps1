@@ -17,7 +17,9 @@ foreach($evHtmlTable in $evHtmlTables){
     $isFirst = $true
     $versions = @()
     $MajorReleaseName = $null
-
+    
+    $latestCU = $null
+    
     foreach($tr in $evHtmlTable.Element('tbody').SelectNodes('tr')){
         $data = $tr.Elements('td').InnerText.Trim()
         if($data.Count -ne 4 -or $data[0].Length -eq 0) { continue }
@@ -30,16 +32,22 @@ foreach($evHtmlTable in $evHtmlTables){
             Write-Verbose "Could not convert $($data[1]) into a DateTime$($data[0])" -ForegroundColor Yellow
         }
         $cuMatches = ($data[0] | Select-String -Pattern "Cu(\d+)").Matches
+        
         $cuVersion = ""
         if($cuMatches.Groups.Count -eq 2){
             $cuVersion = $cuMatches.Groups[1].Value
+            if($null -eq $latestCU){
+                $latestCU = $cuVersion
+            }
         }
+
         $versions += [PSCustomObject]@{
             ProductName = $data[0]
             Date = $realDate
             BuildNumberShort = $data[2]
             BuildNumberLong = $data[3]
             CU = $cuVersion
+            CUOffset = $latestCU - $cuVersion
             IsCurrent = $isFirst
         }
         $isFirst = $false

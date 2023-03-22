@@ -37,6 +37,28 @@ $data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/da
 ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).CU
 ```
 
+## Example Usage: Do i have a supported CU
+
+We are using the CUOffset value which is counting up as older as it gets, starting at 0.
+
+> Critical product updates (packages that address a Microsoft-released security bulletin or contain a change in time zone definitions) are released as needed on a monthly basis for the most recently released CU and the preceding CU.
+
+So we can simply check if the CUOffset is bigger than 1 and then we have an unsupported CU.
+
+> For now this does only works for actually supported Exchange Server Versions. Unsupported Versions like 2010/2007 and soon 2013 should be irrelevant anyway.
+
+
+```powershell
+# Run in Exchange Management Shell
+$exchangeVersion = (Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}).ProductVersion
+$data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/data.json"
+if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).IsCurrent){
+    Write-Host "Your Exchange is Up2Date" -ForegroundColor Green
+}else{
+    Write-Host "Shame on you - Please install the latest Exchange Update" -ForegroundColor Red
+}
+```
+
 ## Data Resources
 
 ## Json 
