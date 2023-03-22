@@ -52,10 +52,10 @@ So we can simply check if the CUOffset is bigger than 1 and then we have an unsu
 # Run in Exchange Management Shell
 $exchangeVersion = (Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}).ProductVersion
 $data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/data.json"
-if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).IsCurrent){
-    Write-Host "Your Exchange is Up2Date" -ForegroundColor Green
+if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).CUOffset -le 1){
+    Write-Host "Your Exchange CU is Up2Date" -ForegroundColor Green
 }else{
-    Write-Host "Shame on you - Please install the latest Exchange Update" -ForegroundColor Red
+    Write-Host "Please install at least the latest Exchange CU Update" -ForegroundColor Red
 }
 ```
 
