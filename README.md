@@ -52,10 +52,10 @@ So we can simply check if the CUOffset is bigger than 1 and then we have an unsu
 # Run in Exchange Management Shell
 $exchangeVersion = (Get-Command Exsetup.exe | ForEach {$_.FileVersionInfo}).ProductVersion
 $data = Invoke-RestMethod "https://xasz.github.io/exchange-version-table/data/data.json"
-if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).IsCurrent){
-    Write-Host "Your Exchange is Up2Date" -ForegroundColor Green
+if( ($data.Releases  | Where-Object {$_.BuildNumberLong -like $exchangeVersion}).CUOffset -le 1){
+    Write-Host "Your Exchange CU is Up2Date" -ForegroundColor Green
 }else{
-    Write-Host "Shame on you - Please install the latest Exchange Update" -ForegroundColor Red
+    Write-Host "Please install at least the latest Exchange CU Update" -ForegroundColor Red
 }
 ```
 
@@ -102,7 +102,7 @@ Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and
 | **Exchange Server 2019 CU12 Mar23SU** | **2023-03-14** | **15.2.1118.26** | **15.02.1118.026** |
  ```
 # Exchange Version Table
-Generation: 22.03.2023 16:52:56
+Generation: 22.03.2023 16:56:06
 Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates
 
 # Exchange Server 2019
