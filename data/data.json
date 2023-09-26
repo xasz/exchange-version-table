@@ -1,15 +1,78 @@
 {
-  "GenerationDate": "2023-03-22T16:56:06.3205965+01:00",
+  "GenerationDate": "2023-09-26T13:57:06.4994712+02:00",
   "Source": "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates",
   "Releases": [
+    {
+      "ProductName": "Exchange Server 2019 CU13 Aug23SUv2",
+      "Date": "2023-08-15T00:00:00",
+      "BuildNumberShort": "15.2.1258.25",
+      "BuildNumberLong": "15.02.1258.025",
+      "CU": "13",
+      "CUOffset": 0,
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU13 Aug23SU",
+      "Date": "2023-08-08T00:00:00",
+      "BuildNumberShort": "15.2.1258.23",
+      "BuildNumberLong": "15.02.1258.023",
+      "CU": "13",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU13 Jun23SU",
+      "Date": "2023-06-13T00:00:00",
+      "BuildNumberShort": "15.2.1258.16",
+      "BuildNumberLong": "15.02.1258.016",
+      "CU": "13",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU13 (2023H1)",
+      "Date": "2023-05-03T00:00:00",
+      "BuildNumberShort": "15.2.1258.12",
+      "BuildNumberLong": "15.02.1258.012",
+      "CU": "13",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Aug23SUv2",
+      "Date": "2023-08-15T00:00:00",
+      "BuildNumberShort": "15.2.1118.37",
+      "BuildNumberLong": "15.02.1118.037",
+      "CU": "12",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Aug23SU",
+      "Date": "2023-08-08T00:00:00",
+      "BuildNumberShort": "15.2.1118.36",
+      "BuildNumberLong": "15.02.1118.036",
+      "CU": "12",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2019 CU12 Jun23SU",
+      "Date": "2023-06-13T00:00:00",
+      "BuildNumberShort": "15.2.1118.30",
+      "BuildNumberLong": "15.02.1118.030",
+      "CU": "12",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
     {
       "ProductName": "Exchange Server 2019 CU12 Mar23SU",
       "Date": "2023-03-14T00:00:00",
       "BuildNumberShort": "15.2.1118.26",
       "BuildNumberLong": "15.02.1118.026",
       "CU": "12",
-      "CUOffset": 0,
-      "IsCurrent": true
+      "CUOffset": 1,
+      "IsCurrent": false
     },
     {
       "ProductName": "Exchange Server 2019 CU12 Feb23SU",
@@ -17,7 +80,7 @@
       "BuildNumberShort": "15.2.1118.25",
       "BuildNumberLong": "15.02.1118.025",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -26,7 +89,7 @@
       "BuildNumberShort": "15.2.1118.21",
       "BuildNumberLong": "15.02.1118.021",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -35,7 +98,7 @@
       "BuildNumberShort": "15.2.1118.20",
       "BuildNumberLong": "15.02.1118.020",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -44,7 +107,7 @@
       "BuildNumberShort": "15.2.1118.15",
       "BuildNumberLong": "15.02.1118.015",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -53,7 +116,7 @@
       "BuildNumberShort": "15.2.1118.12",
       "BuildNumberLong": "15.02.1118.012",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -62,7 +125,7 @@
       "BuildNumberShort": "15.2.1118.9",
       "BuildNumberLong": "15.02.1118.009",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -71,7 +134,7 @@
       "BuildNumberShort": "15.2.1118.7",
       "BuildNumberLong": "15.02.1118.007",
       "CU": "12",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -80,7 +143,7 @@
       "BuildNumberShort": "15.2.986.42",
       "BuildNumberLong": "15.02.0986.042",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -89,7 +152,7 @@
       "BuildNumberShort": "15.2.986.41",
       "BuildNumberLong": "15.02.0986.041",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -98,7 +161,7 @@
       "BuildNumberShort": "15.2.986.37",
       "BuildNumberLong": "15.02.0986.037",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -107,7 +170,7 @@
       "BuildNumberShort": "15.2.986.36",
       "BuildNumberLong": "15.02.0986.036",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -116,7 +179,7 @@
       "BuildNumberShort": "15.2.986.30",
       "BuildNumberLong": "15.02.0986.030",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -125,7 +188,7 @@
       "BuildNumberShort": "15.2.986.29",
       "BuildNumberLong": "15.02.0986.029",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -134,7 +197,7 @@
       "BuildNumberShort": "15.2.986.26",
       "BuildNumberLong": "15.02.0986.026",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -143,7 +206,7 @@
       "BuildNumberShort": "15.2.986.22",
       "BuildNumberLong": "15.02.0986.022",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -152,7 +215,7 @@
       "BuildNumberShort": "15.2.986.15",
       "BuildNumberLong": "15.02.0986.015",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -161,7 +224,7 @@
       "BuildNumberShort": "15.2.986.14",
       "BuildNumberLong": "15.02.0986.014",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -170,7 +233,7 @@
       "BuildNumberShort": "15.2.986.9",
       "BuildNumberLong": "15.02.0986.009",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -179,7 +242,7 @@
       "BuildNumberShort": "15.2.986.5",
       "BuildNumberLong": "15.02.0986.005",
       "CU": "11",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -188,7 +251,7 @@
       "BuildNumberShort": "15.2.922.27",
       "BuildNumberLong": "15.02.0922.027",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -197,7 +260,7 @@
       "BuildNumberShort": "15.2.922.20",
       "BuildNumberLong": "15.02.0922.020",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -206,7 +269,7 @@
       "BuildNumberShort": "15.2.922.19",
       "BuildNumberLong": "15.02.0922.019",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -215,7 +278,7 @@
       "BuildNumberShort": "15.2.922.14",
       "BuildNumberLong": "15.02.0922.014",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -224,7 +287,7 @@
       "BuildNumberShort": "15.2.922.13",
       "BuildNumberLong": "15.02.0922.013",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -233,7 +296,7 @@
       "BuildNumberShort": "15.2.922.7",
       "BuildNumberLong": "15.02.0922.007",
       "CU": "10",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -242,7 +305,7 @@
       "BuildNumberShort": "15.2.858.15",
       "BuildNumberLong": "15.02.0858.015",
       "CU": "9",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
@@ -251,7 +314,7 @@
       "BuildNumberShort": "15.2.858.12",
       "BuildNumberLong": "15.02.0858.012",
       "CU": "9",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
@@ -260,7 +323,7 @@
       "BuildNumberShort": "15.2.858.10",
       "BuildNumberLong": "15.02.0858.010",
       "CU": "9",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
@@ -269,7 +332,7 @@
       "BuildNumberShort": "15.2.858.5",
       "BuildNumberLong": "15.02.0858.005",
       "CU": "9",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
@@ -278,7 +341,7 @@
       "BuildNumberShort": "15.2.792.15",
       "BuildNumberLong": "15.02.0792.015",
       "CU": "8",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
@@ -287,7 +350,7 @@
       "BuildNumberShort": "15.2.792.13",
       "BuildNumberLong": "15.02.0792.013",
       "CU": "8",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
@@ -296,7 +359,7 @@
       "BuildNumberShort": "15.2.792.10",
       "BuildNumberLong": "15.02.0792.010",
       "CU": "8",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
@@ -305,7 +368,7 @@
       "BuildNumberShort": "15.2.792.3",
       "BuildNumberLong": "15.02.0792.003",
       "CU": "8",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
@@ -314,7 +377,7 @@
       "BuildNumberShort": "15.2.721.13",
       "BuildNumberLong": "15.02.0721.013",
       "CU": "7",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
@@ -323,7 +386,7 @@
       "BuildNumberShort": "15.2.721.2",
       "BuildNumberLong": "15.02.0721.002",
       "CU": "7",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
@@ -332,7 +395,7 @@
       "BuildNumberShort": "15.2.659.12",
       "BuildNumberLong": "15.02.0659.012",
       "CU": "6",
-      "CUOffset": 6,
+      "CUOffset": 7,
       "IsCurrent": false
     },
     {
@@ -341,7 +404,7 @@
       "BuildNumberShort": "15.2.659.4",
       "BuildNumberLong": "15.02.0659.004",
       "CU": "6",
-      "CUOffset": 6,
+      "CUOffset": 7,
       "IsCurrent": false
     },
     {
@@ -350,7 +413,7 @@
       "BuildNumberShort": "15.2.595.8",
       "BuildNumberLong": "15.02.0595.008",
       "CU": "5",
-      "CUOffset": 7,
+      "CUOffset": 8,
       "IsCurrent": false
     },
     {
@@ -359,7 +422,7 @@
       "BuildNumberShort": "15.2.595.3",
       "BuildNumberLong": "15.02.0595.003",
       "CU": "5",
-      "CUOffset": 7,
+      "CUOffset": 8,
       "IsCurrent": false
     },
     {
@@ -368,7 +431,7 @@
       "BuildNumberShort": "15.2.529.13",
       "BuildNumberLong": "15.02.0529.013",
       "CU": "4",
-      "CUOffset": 8,
+      "CUOffset": 9,
       "IsCurrent": false
     },
     {
@@ -377,7 +440,7 @@
       "BuildNumberShort": "15.2.529.5",
       "BuildNumberLong": "15.02.0529.005",
       "CU": "4",
-      "CUOffset": 8,
+      "CUOffset": 9,
       "IsCurrent": false
     },
     {
@@ -386,7 +449,7 @@
       "BuildNumberShort": "15.2.464.15",
       "BuildNumberLong": "15.02.0464.015",
       "CU": "3",
-      "CUOffset": 9,
+      "CUOffset": 10,
       "IsCurrent": false
     },
     {
@@ -395,7 +458,7 @@
       "BuildNumberShort": "15.2.464.5",
       "BuildNumberLong": "15.02.0464.005",
       "CU": "3",
-      "CUOffset": 9,
+      "CUOffset": 10,
       "IsCurrent": false
     },
     {
@@ -404,7 +467,7 @@
       "BuildNumberShort": "15.2.397.11",
       "BuildNumberLong": "15.02.0397.011",
       "CU": "2",
-      "CUOffset": 10,
+      "CUOffset": 11,
       "IsCurrent": false
     },
     {
@@ -413,7 +476,7 @@
       "BuildNumberShort": "15.2.397.3",
       "BuildNumberLong": "15.02.0397.003",
       "CU": "2",
-      "CUOffset": 10,
+      "CUOffset": 11,
       "IsCurrent": false
     },
     {
@@ -422,7 +485,7 @@
       "BuildNumberShort": "15.2.330.11",
       "BuildNumberLong": "15.02.0330.011",
       "CU": "1",
-      "CUOffset": 11,
+      "CUOffset": 12,
       "IsCurrent": false
     },
     {
@@ -431,7 +494,7 @@
       "BuildNumberShort": "15.2.330.5",
       "BuildNumberLong": "15.02.0330.005",
       "CU": "1",
-      "CUOffset": 11,
+      "CUOffset": 12,
       "IsCurrent": false
     },
     {
@@ -440,7 +503,7 @@
       "BuildNumberShort": "15.2.221.18",
       "BuildNumberLong": "15.02.0221.018",
       "CU": "",
-      "CUOffset": 12,
+      "CUOffset": 13,
       "IsCurrent": false
     },
     {
@@ -449,7 +512,7 @@
       "BuildNumberShort": "15.2.221.12",
       "BuildNumberLong": "15.02.0221.012",
       "CU": "",
-      "CUOffset": 12,
+      "CUOffset": 13,
       "IsCurrent": false
     },
     {
@@ -458,7 +521,34 @@
       "BuildNumberShort": "15.2.196.0",
       "BuildNumberLong": "15.02.0196.000",
       "CU": "",
-      "CUOffset": 12,
+      "CUOffset": 13,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Aug23SUv2",
+      "Date": "2023-08-15T00:00:00",
+      "BuildNumberShort": "15.1.2507.32",
+      "BuildNumberLong": "15.01.2507.032",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": true
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Aug23SU",
+      "Date": "2023-08-08T00:00:00",
+      "BuildNumberShort": "15.1.2507.31",
+      "BuildNumberLong": "15.01.2507.031",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "Exchange Server 2016 CU23 Jun23SU",
+      "Date": "2023-06-13T00:00:00",
+      "BuildNumberShort": "15.1.2507.27",
+      "BuildNumberLong": "15.01.2507.027",
+      "CU": "23",
+      "CUOffset": 0,
       "IsCurrent": false
     },
     {
@@ -468,7 +558,7 @@
       "BuildNumberLong": "15.01.2507.023",
       "CU": "23",
       "CUOffset": 0,
-      "IsCurrent": true
+      "IsCurrent": false
     },
     {
       "ProductName": "Exchange Server 2016 CU23 Feb23SU",
