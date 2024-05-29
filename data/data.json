@@ -1,32 +1,95 @@
 {
-  "GenerationDate": "2023-09-26T13:57:06.4994712+02:00",
+  "GenerationDate": "2024-05-29T15:20:18.4794892+02:00",
   "Source": "https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates",
   "Releases": [
     {
-      "ProductName": "Exchange Server 2019 CU13 Aug23SUv2",
-      "Date": "2023-08-15T00:00:00",
-      "BuildNumberShort": "15.2.1258.25",
-      "BuildNumberLong": "15.02.1258.025",
-      "CU": "13",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU14 Apr24HU",
+      "Date": "2024-04-23T00:00:00",
+      "BuildNumberShort": "15.2.1544.11",
+      "BuildNumberLong": "15.02.1544.011",
+      "CU": "14",
       "CUOffset": 0,
       "IsCurrent": true
     },
     {
-      "ProductName": "Exchange Server 2019 CU13 Aug23SU",
-      "Date": "2023-08-08T00:00:00",
-      "BuildNumberShort": "15.2.1258.23",
-      "BuildNumberLong": "15.02.1258.023",
-      "CU": "13",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU14 Mar24SU",
+      "Date": "2024-03-12T00:00:00",
+      "BuildNumberShort": "15.2.1544.9",
+      "BuildNumberLong": "15.02.1544.009",
+      "CU": "14",
       "CUOffset": 0,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU13 Jun23SU",
+      "ProductName": "Exchange Server 2019 CU14 (2024H1)",
+      "Date": "2024-02-13T00:00:00",
+      "BuildNumberShort": "15.2.1544.4",
+      "BuildNumberLong": "15.02.1544.004",
+      "CU": "14",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Apr24HU",
+      "Date": "2024-04-23T00:00:00",
+      "BuildNumberShort": "15.2.1258.34",
+      "BuildNumberLong": "15.02.1258.034",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Mar24SU",
+      "Date": "2024-03-12T00:00:00",
+      "BuildNumberShort": "15.2.1258.32",
+      "BuildNumberLong": "15.02.1258.032",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Nov23SU",
+      "Date": "2023-11-14T00:00:00",
+      "BuildNumberShort": "15.2.1258.28",
+      "BuildNumberLong": "15.02.1258.028",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Oct23SU",
+      "Date": "2023-10-10T00:00:00",
+      "BuildNumberShort": "15.2.1258.27",
+      "BuildNumberLong": "15.02.1258.027",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Aug23SUv2",
+      "Date": "2023-08-15T00:00:00",
+      "BuildNumberShort": "15.2.1258.25",
+      "BuildNumberLong": "15.02.1258.025",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Aug23SU",
+      "Date": "2023-08-08T00:00:00",
+      "BuildNumberShort": "15.2.1258.23",
+      "BuildNumberLong": "15.02.1258.023",
+      "CU": "13",
+      "CUOffset": 1,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Jun23SU",
       "Date": "2023-06-13T00:00:00",
       "BuildNumberShort": "15.2.1258.16",
       "BuildNumberLong": "15.02.1258.016",
       "CU": "13",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
@@ -35,97 +98,115 @@
       "BuildNumberShort": "15.2.1258.12",
       "BuildNumberLong": "15.02.1258.012",
       "CU": "13",
-      "CUOffset": 0,
+      "CUOffset": 1,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Aug23SUv2",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Nov23SU",
+      "Date": "2023-11-14T00:00:00",
+      "BuildNumberShort": "15.2.1118.40",
+      "BuildNumberLong": "15.02.1118.040",
+      "CU": "12",
+      "CUOffset": 2,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Oct23SU",
+      "Date": "2023-10-10T00:00:00",
+      "BuildNumberShort": "15.2.1118.39",
+      "BuildNumberLong": "15.02.1118.039",
+      "CU": "12",
+      "CUOffset": 2,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug23SUv2",
       "Date": "2023-08-15T00:00:00",
       "BuildNumberShort": "15.2.1118.37",
       "BuildNumberLong": "15.02.1118.037",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Aug23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug23SU",
       "Date": "2023-08-08T00:00:00",
       "BuildNumberShort": "15.2.1118.36",
       "BuildNumberLong": "15.02.1118.036",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Jun23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Jun23SU",
       "Date": "2023-06-13T00:00:00",
       "BuildNumberShort": "15.2.1118.30",
       "BuildNumberLong": "15.02.1118.030",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Mar23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Mar23SU",
       "Date": "2023-03-14T00:00:00",
       "BuildNumberShort": "15.2.1118.26",
       "BuildNumberLong": "15.02.1118.026",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Feb23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Feb23SU",
       "Date": "2023-02-14T00:00:00",
       "BuildNumberShort": "15.2.1118.25",
       "BuildNumberLong": "15.02.1118.025",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Jan23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Jan23SU",
       "Date": "2023-01-10T00:00:00",
       "BuildNumberShort": "15.2.1118.21",
       "BuildNumberLong": "15.02.1118.021",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Nov22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Nov22SU",
       "Date": "2022-11-08T00:00:00",
       "BuildNumberShort": "15.2.1118.20",
       "BuildNumberLong": "15.02.1118.020",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Oct22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Oct22SU",
       "Date": "2022-10-11T00:00:00",
       "BuildNumberShort": "15.2.1118.15",
       "BuildNumberLong": "15.02.1118.015",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 Aug22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug22SU",
       "Date": "2022-08-09T00:00:00",
       "BuildNumberShort": "15.2.1118.12",
       "BuildNumberLong": "15.02.1118.012",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU12 May22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 May22SU",
       "Date": "2022-05-10T00:00:00",
       "BuildNumberShort": "15.2.1118.9",
       "BuildNumberLong": "15.02.1118.009",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
@@ -134,106 +215,106 @@
       "BuildNumberShort": "15.2.1118.7",
       "BuildNumberLong": "15.02.1118.007",
       "CU": "12",
-      "CUOffset": 1,
+      "CUOffset": 2,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Mar23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Mar23SU",
       "Date": "2023-03-14T00:00:00",
       "BuildNumberShort": "15.2.986.42",
       "BuildNumberLong": "15.02.0986.042",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Feb23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Feb23SU",
       "Date": "2023-02-14T00:00:00",
       "BuildNumberShort": "15.2.986.41",
       "BuildNumberLong": "15.02.0986.041",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Jan23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Jan23SU",
       "Date": "2023-01-10T00:00:00",
       "BuildNumberShort": "15.2.986.37",
       "BuildNumberLong": "15.02.0986.037",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Nov22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Nov22SU",
       "Date": "2022-11-08T00:00:00",
       "BuildNumberShort": "15.2.986.36",
       "BuildNumberLong": "15.02.0986.036",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Oct22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Oct22SU",
       "Date": "2022-10-11T00:00:00",
       "BuildNumberShort": "15.2.986.30",
       "BuildNumberLong": "15.02.0986.030",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Aug22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Aug22SU",
       "Date": "2022-08-09T00:00:00",
       "BuildNumberShort": "15.2.986.29",
       "BuildNumberLong": "15.02.0986.029",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 May22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 May22SU",
       "Date": "2022-05-10T00:00:00",
       "BuildNumberShort": "15.2.986.26",
       "BuildNumberLong": "15.02.0986.026",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Mar22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Mar22SU",
       "Date": "2022-03-08T00:00:00",
       "BuildNumberShort": "15.2.986.22",
       "BuildNumberLong": "15.02.0986.022",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Jan22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Jan22SU",
       "Date": "2022-01-11T00:00:00",
       "BuildNumberShort": "15.2.986.15",
       "BuildNumberLong": "15.02.0986.015",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Nov21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Nov21SU",
       "Date": "2021-11-09T00:00:00",
       "BuildNumberShort": "15.2.986.14",
       "BuildNumberLong": "15.02.0986.014",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU11 Oct21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Oct21SU",
       "Date": "2021-10-12T00:00:00",
       "BuildNumberShort": "15.2.986.9",
       "BuildNumberLong": "15.02.0986.009",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
@@ -242,52 +323,52 @@
       "BuildNumberShort": "15.2.986.5",
       "BuildNumberLong": "15.02.0986.005",
       "CU": "11",
-      "CUOffset": 2,
+      "CUOffset": 3,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU10 Mar22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Mar22SU",
       "Date": "2022-03-08T00:00:00",
       "BuildNumberShort": "15.2.922.27",
       "BuildNumberLong": "15.02.0922.027",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU10 Jan22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Jan22SU",
       "Date": "2022-01-11T00:00:00",
       "BuildNumberShort": "15.2.922.20",
       "BuildNumberLong": "15.02.0922.020",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU10 Nov21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Nov21SU",
       "Date": "2021-11-09T00:00:00",
       "BuildNumberShort": "15.2.922.19",
       "BuildNumberLong": "15.02.0922.019",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU10 Oct21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Oct21SU",
       "Date": "2021-10-12T00:00:00",
       "BuildNumberShort": "15.2.922.14",
       "BuildNumberLong": "15.02.0922.014",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU10 Jul21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Jul21SU",
       "Date": "2021-07-13T00:00:00",
       "BuildNumberShort": "15.2.922.13",
       "BuildNumberLong": "15.02.0922.013",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
@@ -296,34 +377,34 @@
       "BuildNumberShort": "15.2.922.7",
       "BuildNumberLong": "15.02.0922.007",
       "CU": "10",
-      "CUOffset": 3,
+      "CUOffset": 4,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU9 Jul21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 Jul21SU",
       "Date": "2021-07-13T00:00:00",
       "BuildNumberShort": "15.2.858.15",
       "BuildNumberLong": "15.02.0858.015",
       "CU": "9",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU9 May21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 May21SU",
       "Date": "2021-05-11T00:00:00",
       "BuildNumberShort": "15.2.858.12",
       "BuildNumberLong": "15.02.0858.012",
       "CU": "9",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU9 Apr21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 Apr21SU",
       "Date": "2021-04-13T00:00:00",
       "BuildNumberShort": "15.2.858.10",
       "BuildNumberLong": "15.02.0858.010",
       "CU": "9",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
@@ -332,34 +413,34 @@
       "BuildNumberShort": "15.2.858.5",
       "BuildNumberLong": "15.02.0858.005",
       "CU": "9",
-      "CUOffset": 4,
+      "CUOffset": 5,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU8 May21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 May21SU",
       "Date": "2021-05-11T00:00:00",
       "BuildNumberShort": "15.2.792.15",
       "BuildNumberLong": "15.02.0792.015",
       "CU": "8",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU8 Apr21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 Apr21SU",
       "Date": "2021-04-13T00:00:00",
       "BuildNumberShort": "15.2.792.13",
       "BuildNumberLong": "15.02.0792.013",
       "CU": "8",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU8 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.792.10",
       "BuildNumberLong": "15.02.0792.010",
       "CU": "8",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
@@ -368,16 +449,16 @@
       "BuildNumberShort": "15.2.792.3",
       "BuildNumberLong": "15.02.0792.003",
       "CU": "8",
-      "CUOffset": 5,
+      "CUOffset": 6,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU7 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU7 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.721.13",
       "BuildNumberLong": "15.02.0721.013",
       "CU": "7",
-      "CUOffset": 6,
+      "CUOffset": 7,
       "IsCurrent": false
     },
     {
@@ -386,16 +467,16 @@
       "BuildNumberShort": "15.2.721.2",
       "BuildNumberLong": "15.02.0721.002",
       "CU": "7",
-      "CUOffset": 6,
+      "CUOffset": 7,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU6 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU6 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.659.12",
       "BuildNumberLong": "15.02.0659.012",
       "CU": "6",
-      "CUOffset": 7,
+      "CUOffset": 8,
       "IsCurrent": false
     },
     {
@@ -404,16 +485,16 @@
       "BuildNumberShort": "15.2.659.4",
       "BuildNumberLong": "15.02.0659.004",
       "CU": "6",
-      "CUOffset": 7,
+      "CUOffset": 8,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU5 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU5 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.595.8",
       "BuildNumberLong": "15.02.0595.008",
       "CU": "5",
-      "CUOffset": 8,
+      "CUOffset": 9,
       "IsCurrent": false
     },
     {
@@ -422,16 +503,16 @@
       "BuildNumberShort": "15.2.595.3",
       "BuildNumberLong": "15.02.0595.003",
       "CU": "5",
-      "CUOffset": 8,
+      "CUOffset": 9,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU4 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU4 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.529.13",
       "BuildNumberLong": "15.02.0529.013",
       "CU": "4",
-      "CUOffset": 9,
+      "CUOffset": 10,
       "IsCurrent": false
     },
     {
@@ -440,16 +521,16 @@
       "BuildNumberShort": "15.2.529.5",
       "BuildNumberLong": "15.02.0529.005",
       "CU": "4",
-      "CUOffset": 9,
+      "CUOffset": 10,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU3 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU3 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.464.15",
       "BuildNumberLong": "15.02.0464.015",
       "CU": "3",
-      "CUOffset": 10,
+      "CUOffset": 11,
       "IsCurrent": false
     },
     {
@@ -458,16 +539,16 @@
       "BuildNumberShort": "15.2.464.5",
       "BuildNumberLong": "15.02.0464.005",
       "CU": "3",
-      "CUOffset": 10,
+      "CUOffset": 11,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU2 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU2 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.397.11",
       "BuildNumberLong": "15.02.0397.011",
       "CU": "2",
-      "CUOffset": 11,
+      "CUOffset": 12,
       "IsCurrent": false
     },
     {
@@ -476,16 +557,16 @@
       "BuildNumberShort": "15.2.397.3",
       "BuildNumberLong": "15.02.0397.003",
       "CU": "2",
-      "CUOffset": 11,
+      "CUOffset": 12,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 CU1 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU1 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.330.11",
       "BuildNumberLong": "15.02.0330.011",
       "CU": "1",
-      "CUOffset": 12,
+      "CUOffset": 13,
       "IsCurrent": false
     },
     {
@@ -494,16 +575,16 @@
       "BuildNumberShort": "15.2.330.5",
       "BuildNumberLong": "15.02.0330.005",
       "CU": "1",
-      "CUOffset": 12,
+      "CUOffset": 13,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2019 RTM Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2019 RTM Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.2.221.18",
       "BuildNumberLong": "15.02.0221.018",
       "CU": "",
-      "CUOffset": 13,
+      "CUOffset": 14,
       "IsCurrent": false
     },
     {
@@ -512,7 +593,7 @@
       "BuildNumberShort": "15.2.221.12",
       "BuildNumberLong": "15.02.0221.012",
       "CU": "",
-      "CUOffset": 13,
+      "CUOffset": 14,
       "IsCurrent": false
     },
     {
@@ -521,20 +602,56 @@
       "BuildNumberShort": "15.2.196.0",
       "BuildNumberLong": "15.02.0196.000",
       "CU": "",
-      "CUOffset": 13,
+      "CUOffset": 14,
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Aug23SUv2",
-      "Date": "2023-08-15T00:00:00",
-      "BuildNumberShort": "15.1.2507.32",
-      "BuildNumberLong": "15.01.2507.032",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Apr24HU",
+      "Date": "2024-04-23T00:00:00",
+      "BuildNumberShort": "15.1.2507.39",
+      "BuildNumberLong": "15.01.2507.039",
       "CU": "23",
       "CUOffset": 0,
       "IsCurrent": true
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Aug23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Mar24SU",
+      "Date": "2024-03-12T00:00:00",
+      "BuildNumberShort": "15.1.2507.37",
+      "BuildNumberLong": "15.01.2507.037",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Nov23SU",
+      "Date": "2023-11-14T00:00:00",
+      "BuildNumberShort": "15.1.2507.35",
+      "BuildNumberLong": "15.01.2507.035",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Oct23SU",
+      "Date": "2023-10-10T00:00:00",
+      "BuildNumberShort": "15.1.2507.34",
+      "BuildNumberLong": "15.01.2507.034",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug23SUv2",
+      "Date": "2023-08-15T00:00:00",
+      "BuildNumberShort": "15.1.2507.32",
+      "BuildNumberLong": "15.01.2507.032",
+      "CU": "23",
+      "CUOffset": 0,
+      "IsCurrent": false
+    },
+    {
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug23SU",
       "Date": "2023-08-08T00:00:00",
       "BuildNumberShort": "15.1.2507.31",
       "BuildNumberLong": "15.01.2507.031",
@@ -543,7 +660,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Jun23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Jun23SU",
       "Date": "2023-06-13T00:00:00",
       "BuildNumberShort": "15.1.2507.27",
       "BuildNumberLong": "15.01.2507.027",
@@ -552,7 +669,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Mar23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Mar23SU",
       "Date": "2023-03-14T00:00:00",
       "BuildNumberShort": "15.1.2507.23",
       "BuildNumberLong": "15.01.2507.023",
@@ -561,7 +678,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Feb23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Feb23SU",
       "Date": "2023-02-14T00:00:00",
       "BuildNumberShort": "15.1.2507.21",
       "BuildNumberLong": "15.01.2507.021",
@@ -570,7 +687,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Jan23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Jan23SU",
       "Date": "2023-01-10T00:00:00",
       "BuildNumberShort": "15.1.2507.17",
       "BuildNumberLong": "15.01.2507.017",
@@ -579,7 +696,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Nov22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Nov22SU",
       "Date": "2022-11-08T00:00:00",
       "BuildNumberShort": "15.1.2507.16",
       "BuildNumberLong": "15.01.2507.016",
@@ -588,7 +705,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Oct22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Oct22SU",
       "Date": "2022-10-11T00:00:00",
       "BuildNumberShort": "15.1.2507.13",
       "BuildNumberLong": "15.01.2507.013",
@@ -597,7 +714,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 Aug22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug22SU",
       "Date": "2022-08-09T00:00:00",
       "BuildNumberShort": "15.1.2507.12",
       "BuildNumberLong": "15.01.2507.012",
@@ -606,7 +723,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU23 May22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 May22SU",
       "Date": "2022-05-10T00:00:00",
       "BuildNumberShort": "15.1.2507.9",
       "BuildNumberLong": "15.01.2507.009",
@@ -624,7 +741,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Nov22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Nov22SU",
       "Date": "2022-11-08T00:00:00",
       "BuildNumberShort": "15.1.2375.37",
       "BuildNumberLong": "15.01.2375.037",
@@ -633,7 +750,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Oct22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Oct22SU",
       "Date": "2022-10-11T00:00:00",
       "BuildNumberShort": "15.1.2375.32",
       "BuildNumberLong": "15.01.2375.032",
@@ -642,7 +759,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Aug22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Aug22SU",
       "Date": "2022-08-09T00:00:00",
       "BuildNumberShort": "15.1.2375.31",
       "BuildNumberLong": "15.01.2375.031",
@@ -651,7 +768,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 May22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 May22SU",
       "Date": "2022-05-10T00:00:00",
       "BuildNumberShort": "15.1.2375.28",
       "BuildNumberLong": "15.01.2375.028",
@@ -660,7 +777,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Mar22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Mar22SU",
       "Date": "2022-03-08T00:00:00",
       "BuildNumberShort": "15.1.2375.24",
       "BuildNumberLong": "15.01.2375.024",
@@ -669,7 +786,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Jan22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Jan22SU",
       "Date": "2022-01-11T00:00:00",
       "BuildNumberShort": "15.1.2375.18",
       "BuildNumberLong": "15.01.2375.018",
@@ -678,7 +795,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Nov21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Nov21SU",
       "Date": "2021-11-09T00:00:00",
       "BuildNumberShort": "15.1.2375.17",
       "BuildNumberLong": "15.01.2375.017",
@@ -687,7 +804,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU22 Oct21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Oct21SU",
       "Date": "2021-10-12T00:00:00",
       "BuildNumberShort": "15.1.2375.12",
       "BuildNumberLong": "15.01.2375.012",
@@ -705,7 +822,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU21 Mar22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Mar22SU",
       "Date": "2022-03-08T00:00:00",
       "BuildNumberShort": "15.1.2308.27",
       "BuildNumberLong": "15.01.2308.027",
@@ -714,7 +831,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU21 Jan22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Jan22SU",
       "Date": "2022-01-11T00:00:00",
       "BuildNumberShort": "15.1.2308.21",
       "BuildNumberLong": "15.01.2308.021",
@@ -723,7 +840,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU21 Nov21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Nov21SU",
       "Date": "2021-11-09T00:00:00",
       "BuildNumberShort": "15.1.2308.20",
       "BuildNumberLong": "15.01.2308.020",
@@ -732,7 +849,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU21 Oct21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Oct21SU",
       "Date": "2021-10-12T00:00:00",
       "BuildNumberShort": "15.1.2308.15",
       "BuildNumberLong": "15.01.2308.015",
@@ -741,7 +858,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU21 Jul21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Jul21SU",
       "Date": "2021-07-13T00:00:00",
       "BuildNumberShort": "15.1.2308.14",
       "BuildNumberLong": "15.01.2308.014",
@@ -759,7 +876,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU20 Jul21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 Jul21SU",
       "Date": "2021-07-13T00:00:00",
       "BuildNumberShort": "15.1.2242.12",
       "BuildNumberLong": "15.01.2242.012",
@@ -768,7 +885,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU20 May21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 May21SU",
       "Date": "2021-05-11T00:00:00",
       "BuildNumberShort": "15.1.2242.10",
       "BuildNumberLong": "15.01.2242.010",
@@ -777,7 +894,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU20 Apr21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 Apr21SU",
       "Date": "2021-04-13T00:00:00",
       "BuildNumberShort": "15.1.2242.8",
       "BuildNumberLong": "15.01.2242.008",
@@ -795,7 +912,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU19 May21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 May21SU",
       "Date": "2021-05-11T00:00:00",
       "BuildNumberShort": "15.1.2176.14",
       "BuildNumberLong": "15.01.2176.014",
@@ -804,7 +921,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU19 Apr21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 Apr21SU",
       "Date": "2021-04-13T00:00:00",
       "BuildNumberShort": "15.1.2176.12",
       "BuildNumberLong": "15.01.2176.012",
@@ -813,7 +930,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU19 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.2176.9",
       "BuildNumberLong": "15.01.2176.009",
@@ -831,7 +948,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU18 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU18 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.2106.13",
       "BuildNumberLong": "15.01.2106.013",
@@ -849,7 +966,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU17 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU17 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.2044.13",
       "BuildNumberLong": "15.01.2044.013",
@@ -867,7 +984,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU16 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU16 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1979.8",
       "BuildNumberLong": "15.01.1979.008",
@@ -885,7 +1002,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU15 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU15 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1913.12",
       "BuildNumberLong": "15.01.1913.012",
@@ -903,7 +1020,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU14 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU14 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1847.12",
       "BuildNumberLong": "15.01.1847.012",
@@ -921,7 +1038,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU13 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU13 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1779.8",
       "BuildNumberLong": "15.01.1779.008",
@@ -939,7 +1056,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU12 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU12 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1713.10",
       "BuildNumberLong": "15.01.1713.010",
@@ -957,7 +1074,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU11 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU11 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1591.18",
       "BuildNumberLong": "15.01.1591.018",
@@ -975,7 +1092,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU10 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU10 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1531.12",
       "BuildNumberLong": "15.01.1531.012",
@@ -993,7 +1110,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU9 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU9 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1466.16",
       "BuildNumberLong": "15.01.1466.016",
@@ -1011,7 +1128,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2016 CU8 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU8 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.1.1415.10",
       "BuildNumberLong": "15.01.1415.010",
@@ -1110,7 +1227,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Mar23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar23SU",
       "Date": "2023-03-14T00:00:00",
       "BuildNumberShort": "15.0.1497.48",
       "BuildNumberLong": "15.00.1497.048",
@@ -1119,7 +1236,7 @@
       "IsCurrent": true
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Feb23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Feb23SU",
       "Date": "2023-02-14T00:00:00",
       "BuildNumberShort": "15.0.1497.47",
       "BuildNumberLong": "15.00.1497.047",
@@ -1128,7 +1245,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Jan23SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jan23SU",
       "Date": "2023-01-10T00:00:00",
       "BuildNumberShort": "15.0.1497.45",
       "BuildNumberLong": "15.00.1497.045",
@@ -1137,7 +1254,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Nov22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Nov22SU",
       "Date": "2022-11-08T00:00:00",
       "BuildNumberShort": "15.0.1497.44",
       "BuildNumberLong": "15.00.1497.044",
@@ -1146,7 +1263,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Oct22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Oct22SU",
       "Date": "2022-10-11T00:00:00",
       "BuildNumberShort": "15.0.1497.42",
       "BuildNumberLong": "15.00.1497.042",
@@ -1155,7 +1272,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Aug22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Aug22SU",
       "Date": "2022-08-09T00:00:00",
       "BuildNumberShort": "15.0.1497.40",
       "BuildNumberLong": "15.00.1497.040",
@@ -1164,7 +1281,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 May22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 May22SU",
       "Date": "2022-05-10T00:00:00",
       "BuildNumberShort": "15.0.1497.36",
       "BuildNumberLong": "15.00.1497.036",
@@ -1173,7 +1290,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Mar22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar22SU",
       "Date": "2022-03-08T00:00:00",
       "BuildNumberShort": "15.0.1497.33",
       "BuildNumberLong": "15.00.1497.033",
@@ -1182,7 +1299,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Jan22SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jan22SU",
       "Date": "2022-01-11T00:00:00",
       "BuildNumberShort": "15.0.1497.28",
       "BuildNumberLong": "15.00.1497.028",
@@ -1191,7 +1308,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Nov21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Nov21SU",
       "Date": "2021-11-09T00:00:00",
       "BuildNumberShort": "15.0.1497.26",
       "BuildNumberLong": "15.00.1497.026",
@@ -1200,7 +1317,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Oct21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Oct21SU",
       "Date": "2021-10-12T00:00:00",
       "BuildNumberShort": "15.0.1497.24",
       "BuildNumberLong": "15.00.1497.024",
@@ -1209,7 +1326,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Jul21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jul21SU",
       "Date": "2021-07-13T00:00:00",
       "BuildNumberShort": "15.0.1497.23",
       "BuildNumberLong": "15.00.1497.023",
@@ -1218,7 +1335,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 May21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 May21SU",
       "Date": "2021-05-11T00:00:00",
       "BuildNumberShort": "15.0.1497.18",
       "BuildNumberLong": "15.00.1497.018",
@@ -1227,7 +1344,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Apr21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Apr21SU",
       "Date": "2021-04-13T00:00:00",
       "BuildNumberShort": "15.0.1497.15",
       "BuildNumberLong": "15.00.1497.015",
@@ -1236,7 +1353,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU23 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.0.1497.12",
       "BuildNumberLong": "15.00.1497.012",
@@ -1254,7 +1371,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU22 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU22 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.0.1473.6",
       "BuildNumberLong": "15.00.1473.006",
@@ -1272,7 +1389,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 CU21 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU21 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.0.1395.12",
       "BuildNumberLong": "15.00.1395.012",
@@ -1434,7 +1551,7 @@
       "IsCurrent": false
     },
     {
-      "ProductName": "Exchange Server 2013 SP1 Mar21SU",
+      "ProductName": "&nbsp;&nbsp;&nbsp;Exchange Server 2013 SP1 Mar21SU",
       "Date": "2021-03-02T00:00:00",
       "BuildNumberShort": "15.0.847.64",
       "BuildNumberLong": "15.00.0847.064",

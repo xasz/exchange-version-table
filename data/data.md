@@ -1,67 +1,76 @@
 # Exchange Version Table
-Generation: 26.09.2023 13:57:06
+Generation: 29.05.2024 15:20:18
 Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and-release-dates
 
 # Exchange Server 2019
 
 | Product Name | Date | Build Number (Short) | Build Number (Long) |
 |:- | - | - | - |
-| **Exchange Server 2019 CU13 Aug23SUv2** | **2023-08-15** | **15.2.1258.25** | **15.02.1258.025** |
-| Exchange Server 2019 CU13 Aug23SU | 2023-08-08 | 15.2.1258.23 | 15.02.1258.023 |
-| Exchange Server 2019 CU13 Jun23SU | 2023-06-13 | 15.2.1258.16 | 15.02.1258.016 |
+| **&nbsp;&nbsp;&nbsp;Exchange Server 2019 CU14 Apr24HU** | **2024-04-23** | **15.2.1544.11** | **15.02.1544.011** |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU14 Mar24SU | 2024-03-12 | 15.2.1544.9 | 15.02.1544.009 |
+| Exchange Server 2019 CU14 (2024H1) | 2024-02-13 | 15.2.1544.4 | 15.02.1544.004 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Apr24HU | 2024-04-23 | 15.2.1258.34 | 15.02.1258.034 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Mar24SU | 2024-03-12 | 15.2.1258.32 | 15.02.1258.032 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Nov23SU | 2023-11-14 | 15.2.1258.28 | 15.02.1258.028 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Oct23SU | 2023-10-10 | 15.2.1258.27 | 15.02.1258.027 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Aug23SUv2 | 2023-08-15 | 15.2.1258.25 | 15.02.1258.025 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Aug23SU | 2023-08-08 | 15.2.1258.23 | 15.02.1258.023 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU13 Jun23SU | 2023-06-13 | 15.2.1258.16 | 15.02.1258.016 |
 | Exchange Server 2019 CU13 (2023H1) | 2023-05-03 | 15.2.1258.12 | 15.02.1258.012 |
-| Exchange Server 2019 CU12 Aug23SUv2 | 2023-08-15 | 15.2.1118.37 | 15.02.1118.037 |
-| Exchange Server 2019 CU12 Aug23SU | 2023-08-08 | 15.2.1118.36 | 15.02.1118.036 |
-| Exchange Server 2019 CU12 Jun23SU | 2023-06-13 | 15.2.1118.30 | 15.02.1118.030 |
-| Exchange Server 2019 CU12 Mar23SU | 2023-03-14 | 15.2.1118.26 | 15.02.1118.026 |
-| Exchange Server 2019 CU12 Feb23SU | 2023-02-14 | 15.2.1118.25 | 15.02.1118.025 |
-| Exchange Server 2019 CU12 Jan23SU | 2023-01-10 | 15.2.1118.21 | 15.02.1118.021 |
-| Exchange Server 2019 CU12 Nov22SU | 2022-11-08 | 15.2.1118.20 | 15.02.1118.020 |
-| Exchange Server 2019 CU12 Oct22SU | 2022-10-11 | 15.2.1118.15 | 15.02.1118.015 |
-| Exchange Server 2019 CU12 Aug22SU | 2022-08-09 | 15.2.1118.12 | 15.02.1118.012 |
-| Exchange Server 2019 CU12 May22SU | 2022-05-10 | 15.2.1118.9 | 15.02.1118.009 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Nov23SU | 2023-11-14 | 15.2.1118.40 | 15.02.1118.040 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Oct23SU | 2023-10-10 | 15.2.1118.39 | 15.02.1118.039 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug23SUv2 | 2023-08-15 | 15.2.1118.37 | 15.02.1118.037 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug23SU | 2023-08-08 | 15.2.1118.36 | 15.02.1118.036 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Jun23SU | 2023-06-13 | 15.2.1118.30 | 15.02.1118.030 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Mar23SU | 2023-03-14 | 15.2.1118.26 | 15.02.1118.026 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Feb23SU | 2023-02-14 | 15.2.1118.25 | 15.02.1118.025 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Jan23SU | 2023-01-10 | 15.2.1118.21 | 15.02.1118.021 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Nov22SU | 2022-11-08 | 15.2.1118.20 | 15.02.1118.020 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Oct22SU | 2022-10-11 | 15.2.1118.15 | 15.02.1118.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 Aug22SU | 2022-08-09 | 15.2.1118.12 | 15.02.1118.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU12 May22SU | 2022-05-10 | 15.2.1118.9 | 15.02.1118.009 |
 | Exchange Server 2019 CU12 (2022H1) | 2022-04-20 | 15.2.1118.7 | 15.02.1118.007 |
-| Exchange Server 2019 CU11 Mar23SU | 2023-03-14 | 15.2.986.42 | 15.02.0986.042 |
-| Exchange Server 2019 CU11 Feb23SU | 2023-02-14 | 15.2.986.41 | 15.02.0986.041 |
-| Exchange Server 2019 CU11 Jan23SU | 2023-01-10 | 15.2.986.37 | 15.02.0986.037 |
-| Exchange Server 2019 CU11 Nov22SU | 2022-11-08 | 15.2.986.36 | 15.02.0986.036 |
-| Exchange Server 2019 CU11 Oct22SU | 2022-10-11 | 15.2.986.30 | 15.02.0986.030 |
-| Exchange Server 2019 CU11 Aug22SU | 2022-08-09 | 15.2.986.29 | 15.02.0986.029 |
-| Exchange Server 2019 CU11 May22SU | 2022-05-10 | 15.2.986.26 | 15.02.0986.026 |
-| Exchange Server 2019 CU11 Mar22SU | 2022-03-08 | 15.2.986.22 | 15.02.0986.022 |
-| Exchange Server 2019 CU11 Jan22SU | 2022-01-11 | 15.2.986.15 | 15.02.0986.015 |
-| Exchange Server 2019 CU11 Nov21SU | 2021-11-09 | 15.2.986.14 | 15.02.0986.014 |
-| Exchange Server 2019 CU11 Oct21SU | 2021-10-12 | 15.2.986.9 | 15.02.0986.009 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Mar23SU | 2023-03-14 | 15.2.986.42 | 15.02.0986.042 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Feb23SU | 2023-02-14 | 15.2.986.41 | 15.02.0986.041 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Jan23SU | 2023-01-10 | 15.2.986.37 | 15.02.0986.037 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Nov22SU | 2022-11-08 | 15.2.986.36 | 15.02.0986.036 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Oct22SU | 2022-10-11 | 15.2.986.30 | 15.02.0986.030 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Aug22SU | 2022-08-09 | 15.2.986.29 | 15.02.0986.029 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 May22SU | 2022-05-10 | 15.2.986.26 | 15.02.0986.026 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Mar22SU | 2022-03-08 | 15.2.986.22 | 15.02.0986.022 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Jan22SU | 2022-01-11 | 15.2.986.15 | 15.02.0986.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Nov21SU | 2021-11-09 | 15.2.986.14 | 15.02.0986.014 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU11 Oct21SU | 2021-10-12 | 15.2.986.9 | 15.02.0986.009 |
 | Exchange Server 2019 CU11 | 2021-09-28 | 15.2.986.5 | 15.02.0986.005 |
-| Exchange Server 2019 CU10 Mar22SU | 2022-03-08 | 15.2.922.27 | 15.02.0922.027 |
-| Exchange Server 2019 CU10 Jan22SU | 2022-01-11 | 15.2.922.20 | 15.02.0922.020 |
-| Exchange Server 2019 CU10 Nov21SU | 2021-11-09 | 15.2.922.19 | 15.02.0922.019 |
-| Exchange Server 2019 CU10 Oct21SU | 2021-10-12 | 15.2.922.14 | 15.02.0922.014 |
-| Exchange Server 2019 CU10 Jul21SU | 2021-07-13 | 15.2.922.13 | 15.02.0922.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Mar22SU | 2022-03-08 | 15.2.922.27 | 15.02.0922.027 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Jan22SU | 2022-01-11 | 15.2.922.20 | 15.02.0922.020 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Nov21SU | 2021-11-09 | 15.2.922.19 | 15.02.0922.019 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Oct21SU | 2021-10-12 | 15.2.922.14 | 15.02.0922.014 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU10 Jul21SU | 2021-07-13 | 15.2.922.13 | 15.02.0922.013 |
 | Exchange Server 2019 CU10 | 2021-06-29 | 15.2.922.7 | 15.02.0922.007 |
-| Exchange Server 2019 CU9 Jul21SU | 2021-07-13 | 15.2.858.15 | 15.02.0858.015 |
-| Exchange Server 2019 CU9 May21SU | 2021-05-11 | 15.2.858.12 | 15.02.0858.012 |
-| Exchange Server 2019 CU9 Apr21SU | 2021-04-13 | 15.2.858.10 | 15.02.0858.010 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 Jul21SU | 2021-07-13 | 15.2.858.15 | 15.02.0858.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 May21SU | 2021-05-11 | 15.2.858.12 | 15.02.0858.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU9 Apr21SU | 2021-04-13 | 15.2.858.10 | 15.02.0858.010 |
 | Exchange Server 2019 CU9 | 2021-03-16 | 15.2.858.5 | 15.02.0858.005 |
-| Exchange Server 2019 CU8 May21SU | 2021-05-11 | 15.2.792.15 | 15.02.0792.015 |
-| Exchange Server 2019 CU8 Apr21SU | 2021-04-13 | 15.2.792.13 | 15.02.0792.013 |
-| Exchange Server 2019 CU8 Mar21SU | 2021-03-02 | 15.2.792.10 | 15.02.0792.010 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 May21SU | 2021-05-11 | 15.2.792.15 | 15.02.0792.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 Apr21SU | 2021-04-13 | 15.2.792.13 | 15.02.0792.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU8 Mar21SU | 2021-03-02 | 15.2.792.10 | 15.02.0792.010 |
 | Exchange Server 2019 CU8 | 2020-12-15 | 15.2.792.3 | 15.02.0792.003 |
-| Exchange Server 2019 CU7 Mar21SU | 2021-03-02 | 15.2.721.13 | 15.02.0721.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU7 Mar21SU | 2021-03-02 | 15.2.721.13 | 15.02.0721.013 |
 | Exchange Server 2019 CU7 | 2020-09-15 | 15.2.721.2 | 15.02.0721.002 |
-| Exchange Server 2019 CU6 Mar21SU | 2021-03-02 | 15.2.659.12 | 15.02.0659.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU6 Mar21SU | 2021-03-02 | 15.2.659.12 | 15.02.0659.012 |
 | Exchange Server 2019 CU6 | 2020-06-16 | 15.2.659.4 | 15.02.0659.004 |
-| Exchange Server 2019 CU5 Mar21SU | 2021-03-02 | 15.2.595.8 | 15.02.0595.008 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU5 Mar21SU | 2021-03-02 | 15.2.595.8 | 15.02.0595.008 |
 | Exchange Server 2019 CU5 | 2020-03-17 | 15.2.595.3 | 15.02.0595.003 |
-| Exchange Server 2019 CU4 Mar21SU | 2021-03-02 | 15.2.529.13 | 15.02.0529.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU4 Mar21SU | 2021-03-02 | 15.2.529.13 | 15.02.0529.013 |
 | Exchange Server 2019 CU4 | 2019-12-17 | 15.2.529.5 | 15.02.0529.005 |
-| Exchange Server 2019 CU3 Mar21SU | 2021-03-02 | 15.2.464.15 | 15.02.0464.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU3 Mar21SU | 2021-03-02 | 15.2.464.15 | 15.02.0464.015 |
 | Exchange Server 2019 CU3 | 2019-09-17 | 15.2.464.5 | 15.02.0464.005 |
-| Exchange Server 2019 CU2 Mar21SU | 2021-03-02 | 15.2.397.11 | 15.02.0397.011 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU2 Mar21SU | 2021-03-02 | 15.2.397.11 | 15.02.0397.011 |
 | Exchange Server 2019 CU2 | 2019-06-18 | 15.2.397.3 | 15.02.0397.003 |
-| Exchange Server 2019 CU1 Mar21SU | 2021-03-02 | 15.2.330.11 | 15.02.0330.011 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 CU1 Mar21SU | 2021-03-02 | 15.2.330.11 | 15.02.0330.011 |
 | Exchange Server 2019 CU1 | 2019-02-12 | 15.2.330.5 | 15.02.0330.005 |
-| Exchange Server 2019 RTM Mar21SU | 2021-03-02 | 15.2.221.18 | 15.02.0221.018 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2019 RTM Mar21SU | 2021-03-02 | 15.2.221.18 | 15.02.0221.018 |
 | Exchange Server 2019 RTM | 2018-10-22 | 15.2.221.12 | 15.02.0221.012 |
 | Exchange Server 2019 Preview | 2018-07-24 | 15.2.196.0 | 15.02.0196.000 |
 
@@ -69,61 +78,65 @@ Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and
 
 | Product Name | Date | Build Number (Short) | Build Number (Long) |
 |:- | - | - | - |
-| **Exchange Server 2016 CU23 Aug23SUv2** | **2023-08-15** | **15.1.2507.32** | **15.01.2507.032** |
-| Exchange Server 2016 CU23 Aug23SU | 2023-08-08 | 15.1.2507.31 | 15.01.2507.031 |
-| Exchange Server 2016 CU23 Jun23SU | 2023-06-13 | 15.1.2507.27 | 15.01.2507.027 |
-| Exchange Server 2016 CU23 Mar23SU | 2023-03-14 | 15.1.2507.23 | 15.01.2507.023 |
-| Exchange Server 2016 CU23 Feb23SU | 2023-02-14 | 15.1.2507.21 | 15.01.2507.021 |
-| Exchange Server 2016 CU23 Jan23SU | 2023-01-10 | 15.1.2507.17 | 15.01.2507.017 |
-| Exchange Server 2016 CU23 Nov22SU | 2022-11-08 | 15.1.2507.16 | 15.01.2507.016 |
-| Exchange Server 2016 CU23 Oct22SU | 2022-10-11 | 15.1.2507.13 | 15.01.2507.013 |
-| Exchange Server 2016 CU23 Aug22SU | 2022-08-09 | 15.1.2507.12 | 15.01.2507.012 |
-| Exchange Server 2016 CU23 May22SU | 2022-05-10 | 15.1.2507.9 | 15.01.2507.009 |
+| **&nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Apr24HU** | **2024-04-23** | **15.1.2507.39** | **15.01.2507.039** |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Mar24SU | 2024-03-12 | 15.1.2507.37 | 15.01.2507.037 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Nov23SU | 2023-11-14 | 15.1.2507.35 | 15.01.2507.035 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Oct23SU | 2023-10-10 | 15.1.2507.34 | 15.01.2507.034 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug23SUv2 | 2023-08-15 | 15.1.2507.32 | 15.01.2507.032 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug23SU | 2023-08-08 | 15.1.2507.31 | 15.01.2507.031 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Jun23SU | 2023-06-13 | 15.1.2507.27 | 15.01.2507.027 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Mar23SU | 2023-03-14 | 15.1.2507.23 | 15.01.2507.023 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Feb23SU | 2023-02-14 | 15.1.2507.21 | 15.01.2507.021 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Jan23SU | 2023-01-10 | 15.1.2507.17 | 15.01.2507.017 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Nov22SU | 2022-11-08 | 15.1.2507.16 | 15.01.2507.016 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Oct22SU | 2022-10-11 | 15.1.2507.13 | 15.01.2507.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 Aug22SU | 2022-08-09 | 15.1.2507.12 | 15.01.2507.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU23 May22SU | 2022-05-10 | 15.1.2507.9 | 15.01.2507.009 |
 | Exchange Server 2016 CU23 (2022H1) | 2022-04-20 | 15.1.2507.6 | 15.01.2507.006 |
-| Exchange Server 2016 CU22 Nov22SU | 2022-11-08 | 15.1.2375.37 | 15.01.2375.037 |
-| Exchange Server 2016 CU22 Oct22SU | 2022-10-11 | 15.1.2375.32 | 15.01.2375.032 |
-| Exchange Server 2016 CU22 Aug22SU | 2022-08-09 | 15.1.2375.31 | 15.01.2375.031 |
-| Exchange Server 2016 CU22 May22SU | 2022-05-10 | 15.1.2375.28 | 15.01.2375.028 |
-| Exchange Server 2016 CU22 Mar22SU | 2022-03-08 | 15.1.2375.24 | 15.01.2375.024 |
-| Exchange Server 2016 CU22 Jan22SU | 2022-01-11 | 15.1.2375.18 | 15.01.2375.018 |
-| Exchange Server 2016 CU22 Nov21SU | 2021-11-09 | 15.1.2375.17 | 15.01.2375.017 |
-| Exchange Server 2016 CU22 Oct21SU | 2021-10-12 | 15.1.2375.12 | 15.01.2375.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Nov22SU | 2022-11-08 | 15.1.2375.37 | 15.01.2375.037 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Oct22SU | 2022-10-11 | 15.1.2375.32 | 15.01.2375.032 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Aug22SU | 2022-08-09 | 15.1.2375.31 | 15.01.2375.031 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 May22SU | 2022-05-10 | 15.1.2375.28 | 15.01.2375.028 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Mar22SU | 2022-03-08 | 15.1.2375.24 | 15.01.2375.024 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Jan22SU | 2022-01-11 | 15.1.2375.18 | 15.01.2375.018 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Nov21SU | 2021-11-09 | 15.1.2375.17 | 15.01.2375.017 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU22 Oct21SU | 2021-10-12 | 15.1.2375.12 | 15.01.2375.012 |
 | Exchange Server 2016 CU22 | 2021-09-28 | 15.1.2375.7 | 15.01.2375.007 |
-| Exchange Server 2016 CU21 Mar22SU | 2022-03-08 | 15.1.2308.27 | 15.01.2308.027 |
-| Exchange Server 2016 CU21 Jan22SU | 2022-01-11 | 15.1.2308.21 | 15.01.2308.021 |
-| Exchange Server 2016 CU21 Nov21SU | 2021-11-09 | 15.1.2308.20 | 15.01.2308.020 |
-| Exchange Server 2016 CU21 Oct21SU | 2021-10-12 | 15.1.2308.15 | 15.01.2308.015 |
-| Exchange Server 2016 CU21 Jul21SU | 2021-07-13 | 15.1.2308.14 | 15.01.2308.014 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Mar22SU | 2022-03-08 | 15.1.2308.27 | 15.01.2308.027 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Jan22SU | 2022-01-11 | 15.1.2308.21 | 15.01.2308.021 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Nov21SU | 2021-11-09 | 15.1.2308.20 | 15.01.2308.020 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Oct21SU | 2021-10-12 | 15.1.2308.15 | 15.01.2308.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU21 Jul21SU | 2021-07-13 | 15.1.2308.14 | 15.01.2308.014 |
 | Exchange Server 2016 CU21 | 2021-06-29 | 15.1.2308.8 | 15.01.2308.008 |
-| Exchange Server 2016 CU20 Jul21SU | 2021-07-13 | 15.1.2242.12 | 15.01.2242.012 |
-| Exchange Server 2016 CU20 May21SU | 2021-05-11 | 15.1.2242.10 | 15.01.2242.010 |
-| Exchange Server 2016 CU20 Apr21SU | 2021-04-13 | 15.1.2242.8 | 15.01.2242.008 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 Jul21SU | 2021-07-13 | 15.1.2242.12 | 15.01.2242.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 May21SU | 2021-05-11 | 15.1.2242.10 | 15.01.2242.010 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU20 Apr21SU | 2021-04-13 | 15.1.2242.8 | 15.01.2242.008 |
 | Exchange Server 2016 CU20 | 2021-03-16 | 15.1.2242.4 | 15.01.2242.004 |
-| Exchange Server 2016 CU19 May21SU | 2021-05-11 | 15.1.2176.14 | 15.01.2176.014 |
-| Exchange Server 2016 CU19 Apr21SU | 2021-04-13 | 15.1.2176.12 | 15.01.2176.012 |
-| Exchange Server 2016 CU19 Mar21SU | 2021-03-02 | 15.1.2176.9 | 15.01.2176.009 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 May21SU | 2021-05-11 | 15.1.2176.14 | 15.01.2176.014 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 Apr21SU | 2021-04-13 | 15.1.2176.12 | 15.01.2176.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU19 Mar21SU | 2021-03-02 | 15.1.2176.9 | 15.01.2176.009 |
 | Exchange Server 2016 CU19 | 2020-12-15 | 15.1.2176.2 | 15.01.2176.002 |
-| Exchange Server 2016 CU18 Mar21SU | 2021-03-02 | 15.1.2106.13 | 15.01.2106.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU18 Mar21SU | 2021-03-02 | 15.1.2106.13 | 15.01.2106.013 |
 | Exchange Server 2016 CU18 | 2020-09-15 | 15.1.2106.2 | 15.01.2106.002 |
-| Exchange Server 2016 CU17 Mar21SU | 2021-03-02 | 15.1.2044.13 | 15.01.2044.013 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU17 Mar21SU | 2021-03-02 | 15.1.2044.13 | 15.01.2044.013 |
 | Exchange Server 2016 CU17 | 2020-06-16 | 15.1.2044.4 | 15.01.2044.004 |
-| Exchange Server 2016 CU16 Mar21SU | 2021-03-02 | 15.1.1979.8 | 15.01.1979.008 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU16 Mar21SU | 2021-03-02 | 15.1.1979.8 | 15.01.1979.008 |
 | Exchange Server 2016 CU16 | 2020-03-17 | 15.1.1979.3 | 15.01.1979.003 |
-| Exchange Server 2016 CU15 Mar21SU | 2021-03-02 | 15.1.1913.12 | 15.01.1913.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU15 Mar21SU | 2021-03-02 | 15.1.1913.12 | 15.01.1913.012 |
 | Exchange Server 2016 CU15 | 2019-12-17 | 15.1.1913.5 | 15.01.1913.005 |
-| Exchange Server 2016 CU14 Mar21SU | 2021-03-02 | 15.1.1847.12 | 15.01.1847.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU14 Mar21SU | 2021-03-02 | 15.1.1847.12 | 15.01.1847.012 |
 | Exchange Server 2016 CU14 | 2019-09-17 | 15.1.1847.3 | 15.01.1847.003 |
-| Exchange Server 2016 CU13 Mar21SU | 2021-03-02 | 15.1.1779.8 | 15.01.1779.008 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU13 Mar21SU | 2021-03-02 | 15.1.1779.8 | 15.01.1779.008 |
 | Exchange Server 2016 CU13 | 2019-06-18 | 15.1.1779.2 | 15.01.1779.002 |
-| Exchange Server 2016 CU12 Mar21SU | 2021-03-02 | 15.1.1713.10 | 15.01.1713.010 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU12 Mar21SU | 2021-03-02 | 15.1.1713.10 | 15.01.1713.010 |
 | Exchange Server 2016 CU12 | 2019-02-12 | 15.1.1713.5 | 15.01.1713.005 |
-| Exchange Server 2016 CU11 Mar21SU | 2021-03-02 | 15.1.1591.18 | 15.01.1591.018 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU11 Mar21SU | 2021-03-02 | 15.1.1591.18 | 15.01.1591.018 |
 | Exchange Server 2016 CU11 | 2018-10-16 | 15.1.1591.10 | 15.01.1591.010 |
-| Exchange Server 2016 CU10 Mar21SU | 2021-03-02 | 15.1.1531.12 | 15.01.1531.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU10 Mar21SU | 2021-03-02 | 15.1.1531.12 | 15.01.1531.012 |
 | Exchange Server 2016 CU10 | 2018-06-19 | 15.1.1531.3 | 15.01.1531.003 |
-| Exchange Server 2016 CU9 Mar21SU | 2021-03-02 | 15.1.1466.16 | 15.01.1466.016 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU9 Mar21SU | 2021-03-02 | 15.1.1466.16 | 15.01.1466.016 |
 | Exchange Server 2016 CU9 | 2018-03-20 | 15.1.1466.3 | 15.01.1466.003 |
-| Exchange Server 2016 CU8 Mar21SU | 2021-03-02 | 15.1.1415.10 | 15.01.1415.010 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2016 CU8 Mar21SU | 2021-03-02 | 15.1.1415.10 | 15.01.1415.010 |
 | Exchange Server 2016 CU8 | 2017-12-19 | 15.1.1415.2 | 15.01.1415.002 |
 | Exchange Server 2016 CU7 | 2017-09-19 | 15.1.1261.35 | 15.01.1261.035 |
 | Exchange Server 2016 CU6 | 2017-06-27 | 15.1.1034.26 | 15.01.1034.026 |
@@ -139,25 +152,25 @@ Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and
 
 | Product Name | Date | Build Number (Short) | Build Number (Long) |
 |:- | - | - | - |
-| **Exchange Server 2013 CU23 Mar23SU** | **2023-03-14** | **15.0.1497.48** | **15.00.1497.048** |
-| Exchange Server 2013 CU23 Feb23SU | 2023-02-14 | 15.0.1497.47 | 15.00.1497.047 |
-| Exchange Server 2013 CU23 Jan23SU | 2023-01-10 | 15.0.1497.45 | 15.00.1497.045 |
-| Exchange Server 2013 CU23 Nov22SU | 2022-11-08 | 15.0.1497.44 | 15.00.1497.044 |
-| Exchange Server 2013 CU23 Oct22SU | 2022-10-11 | 15.0.1497.42 | 15.00.1497.042 |
-| Exchange Server 2013 CU23 Aug22SU | 2022-08-09 | 15.0.1497.40 | 15.00.1497.040 |
-| Exchange Server 2013 CU23 May22SU | 2022-05-10 | 15.0.1497.36 | 15.00.1497.036 |
-| Exchange Server 2013 CU23 Mar22SU | 2022-03-08 | 15.0.1497.33 | 15.00.1497.033 |
-| Exchange Server 2013 CU23 Jan22SU | 2022-01-11 | 15.0.1497.28 | 15.00.1497.028 |
-| Exchange Server 2013 CU23 Nov21SU | 2021-11-09 | 15.0.1497.26 | 15.00.1497.026 |
-| Exchange Server 2013 CU23 Oct21SU | 2021-10-12 | 15.0.1497.24 | 15.00.1497.024 |
-| Exchange Server 2013 CU23 Jul21SU | 2021-07-13 | 15.0.1497.23 | 15.00.1497.023 |
-| Exchange Server 2013 CU23 May21SU | 2021-05-11 | 15.0.1497.18 | 15.00.1497.018 |
-| Exchange Server 2013 CU23 Apr21SU | 2021-04-13 | 15.0.1497.15 | 15.00.1497.015 |
-| Exchange Server 2013 CU23 Mar21SU | 2021-03-02 | 15.0.1497.12 | 15.00.1497.012 |
+| **&nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar23SU** | **2023-03-14** | **15.0.1497.48** | **15.00.1497.048** |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Feb23SU | 2023-02-14 | 15.0.1497.47 | 15.00.1497.047 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jan23SU | 2023-01-10 | 15.0.1497.45 | 15.00.1497.045 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Nov22SU | 2022-11-08 | 15.0.1497.44 | 15.00.1497.044 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Oct22SU | 2022-10-11 | 15.0.1497.42 | 15.00.1497.042 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Aug22SU | 2022-08-09 | 15.0.1497.40 | 15.00.1497.040 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 May22SU | 2022-05-10 | 15.0.1497.36 | 15.00.1497.036 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar22SU | 2022-03-08 | 15.0.1497.33 | 15.00.1497.033 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jan22SU | 2022-01-11 | 15.0.1497.28 | 15.00.1497.028 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Nov21SU | 2021-11-09 | 15.0.1497.26 | 15.00.1497.026 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Oct21SU | 2021-10-12 | 15.0.1497.24 | 15.00.1497.024 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Jul21SU | 2021-07-13 | 15.0.1497.23 | 15.00.1497.023 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 May21SU | 2021-05-11 | 15.0.1497.18 | 15.00.1497.018 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Apr21SU | 2021-04-13 | 15.0.1497.15 | 15.00.1497.015 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU23 Mar21SU | 2021-03-02 | 15.0.1497.12 | 15.00.1497.012 |
 | Exchange Server 2013 CU23 | 2019-06-18 | 15.0.1497.2 | 15.00.1497.002 |
-| Exchange Server 2013 CU22 Mar21SU | 2021-03-02 | 15.0.1473.6 | 15.00.1473.006 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU22 Mar21SU | 2021-03-02 | 15.0.1473.6 | 15.00.1473.006 |
 | Exchange Server 2013 CU22 | 2019-02-12 | 15.0.1473.3 | 15.00.1473.003 |
-| Exchange Server 2013 CU21 Mar21SU | 2021-03-02 | 15.0.1395.12 | 15.00.1395.012 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 CU21 Mar21SU | 2021-03-02 | 15.0.1395.12 | 15.00.1395.012 |
 | Exchange Server 2013 CU21 | 2018-06-19 | 15.0.1395.4 | 15.00.1395.004 |
 | Exchange Server 2013 CU20 | 2018-03-20 | 15.0.1367.3 | 15.00.1367.003 |
 | Exchange Server 2013 CU19 | 2017-12-19 | 15.0.1365.1 | 15.00.1365.001 |
@@ -175,7 +188,7 @@ Source: https://docs.microsoft.com/en-us/exchange/new-features/build-numbers-and
 | Exchange Server 2013 CU7 | 2014-12-09 | 15.0.1044.25 | 15.00.1044.025 |
 | Exchange Server 2013 CU6 | 2014-08-26 | 15.0.995.29 | 15.00.0995.029 |
 | Exchange Server 2013 CU5 | 2014-05-27 | 15.0.913.22 | 15.00.0913.022 |
-| Exchange Server 2013 SP1 Mar21SU | 2021-03-02 | 15.0.847.64 | 15.00.0847.064 |
+| &nbsp;&nbsp;&nbsp;Exchange Server 2013 SP1 Mar21SU | 2021-03-02 | 15.0.847.64 | 15.00.0847.064 |
 | Exchange Server 2013 SP1 | 2014-02-25 | 15.0.847.32 | 15.00.0847.032 |
 | Exchange Server 2013 CU3 | 2013-11-25 | 15.0.775.38 | 15.00.0775.038 |
 | Exchange Server 2013 CU2 | 2013-07-09 | 15.0.712.24 | 15.00.0712.024 |
